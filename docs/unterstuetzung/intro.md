@@ -1,0 +1,38 @@
+---
+sidebar_position: 2
+---
+
+# Wie Sie unterstützen können
+
+## Spenden
+
+Jede/r Bürgerin oder Bürger kann einen solchen Stein setzen lassen. Die Kosten betragen **120,00 €**. Wenden Sie sich an die Mühlheimer NaturFreunde, und überweisen Sie bitte mit Vermerk „Stolpersteine“ auf dieses Girokonto :
+
+**Überweisung:**
+- **IBAN:** DE 62 5065 2124 0008 120 719
+- **BIC:** HELADEF1SLS
+- **Bank:** Sparkasse Langen-Seligenstadt
+- **Vermerk:** "Stolpersteine"
+
+Auch Firmen, Vereine oder Schulklassen können Paten eines Stolpersteins werden.
+
+## Reinigung und Pflege
+
+Die Messingbeschichtung der Schilder oxidiert im Lauf der Zeit und wird unansehnlich. Die Stolpersteine müssen daher regelmäßig gereinigt werden. Jede/r kann sich an dieser Aufgabe beteiligen.
+
+Sie können hier eine [Putzanleitung](./putzanleitung) für die verlegten Stolpersteine lesen.
+
+## Weitere Informationen
+
+- [Verfolgung der Juden aus Mühlheim und Dietesheim](./docs/judenverfolgung_muehlheim09-05-2020.pdf)
+- [Presseartikel der Offenbach Post vom 11.11.2017 zum Novembergang](./docs/novembergang09-11-17-_presseOP.pdf)
+
+## Kontakt
+
+Wer Pate für einen Stolperstein werden möchte oder Wissen bzw. Informationen über verfolgte Personen in Mühlheim weitergeben kann, wird gebeten sich an den Vorstand zu wenden:
+
+**Email:** [vorstand@naturfreunde-muehlheim.de](mailto:vorstand@naturfreunde-muehlheim.de)
+
+---
+
+**Jede Unterstützung zählt!**
