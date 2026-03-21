@@ -1,12 +1,12 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 title: Verfolgung und Deportation der Mühlheimer Juden
 ---
 
 
 # Verfolgung und Deportation der Mühlheimer Juden
 
-Die Judenverfolgung durch die Nationalsozialisten ist eines der dunkelsten Kapitel in der deutschen Geschichte. Ziel der nachstehenden Abhandlung ist es, das Schicksal und Leiden der 92 jüdischen Menschen aufzuzeigen, die im Jahr 1933 in Mühlheim und Dietesheim lebten. Ihre Namen sind im Text hervorgehoben.
+Die Judenverfolgung durch die Nationalsozialisten ist eines der dunkelsten Kapitel in der deutschen Geschichte. Ziel dieser Dokumentation ist es, das Schicksal und Leiden der 92 jüdischen Menschen aufzuzeigen, die im Jahr 1933 in Mühlheim und Dietesheim lebten. Ihre Namen sind im Text hervorgehoben.
 
 Die Verfolgungen zwischen 1933 und 1945 sind in Form einer Zeittafel dargestellt. Markante Ereignisse, wie der Erlass der Nürnberger Rassengesetze 1935, die verschärften Verfolgungen nach der Pogromnacht 1938, die verschärften Lebensbedingungen während der Kriegsjahre sowie die physische Vernichtung der jüdischen Gemeinde in den Jahren 1941 bis 1943 werden eingehend beschrieben.
 
@@ -15,58 +15,23 @@ Außerdem werden allgemeine Ereignisse erwähnt, die sich im Reich, Land und in 
 Am Anfang steht jedoch ein Abriss von Ereignissen in den jüdischen Gemeinden von Mühlheim und Dietesheim bis zur sogenannten „Machtergreifung" der Nationalsozialisten.
 
 
-## Vorgeschichte der jüdischen Gemeinde in Mühlheim und Dietesheim
+##  Aufstieg der NSDAP
 
-Während die Mühlheimer ab 1887 eine eigene Gemeinde bildeten, blieben die Dietesheimer Juden weiterhin der Gemeinde in Groß-Steinheim angeschlossen. Dort gingen sie zur Synagoge und auf dem dortigen Friedhof wurden die Toten beerdigt. Bis 1887 beerdigten auch die Mühlheimer ihre Toten dort.
+Die NSDAP beschreibt die Entwicklung ihrer Partei im Mühlheim bis 1932 in einer Beilage der „Offenbacher Zeitung“ zum 01.04.1939 (Tag der Zusammenlegung mit Dietesheim und der Erhebung zur Stadt) so:
 
-| Datum | Ereignis |
-|-------|----------|
-| 14. Juli 1789 | Sturm auf die Bastille in Paris und Beginn der Französischen Revolution |
-| Vor 1795 | Zuzug von Hertz und Sinschen Rollmann nach Mühlheim |
-| Im Jahr 1799 | Die jüdische Gemeinde Mühlheim ist an der Errichtung des jüdischen Friedhofs in Groß-Steinheim beteiligt. |
-| 18. Juni 1815 | Schlacht bei Waterloo – Ende der napoleonischen Ära |
-| Im Jahr 1836 | Die „Ortsbürger-Liste" in Dietesheim erwähnt erstmals einen Juden, den Schumacher Joseph Moises, der im Jahre 1813 geboren wurde. |
-| März 1848 | Beginn der Frankfurter Nationalversammlung in der Paulskirche |
-| 11. November 1850 | Aufnahme von Josef Rollmann ins Bürgerregister Mühlheim |
-| Im Jahr 1861 | Das Wachthäuschen in der Marktstraße wird gebaut. |
-| 15. November 1865 | Aufnahme von Salomon Rollmann ins Bürgerregister Mühlheim |
-| 18. Mai 1868 | Aufnahme von Nehm Rollmann ins Bürgerregister Mühlheim |
-| 19. Juli 1870 | Frankreich erklärt dem Königreich Preußen den Krieg |
-| 18. Januar 1871 | Gründung des Deutschen Reiches |
-| 07. Dezember 1873 | Aufnahme von Nehm Stiefel ins Bürgerregister Mühlheim |
-| 24. März 1874 | Karoline Schönemann stirbt im Alter von 25 Jahren in Dietesheim und wird auf dem alten Friedhof in Steinheim beerdigt. |
-| Im Jahr 1876 | Georg Büttner wird Bürgermeister in Mühlheim (34 Amtsjahre). |
-| Im Jahr 1879 | Das erste echte Schulgebäude wird in Mühlheim errichtet. |
-| 28. Dezember 1879 | Aufnahme von Julius Fried ins Bürgerregister Mühlheim |
-| 06. August 1880 | Mit der Betriebsaufnahme des Farbwerks Mühlheim beginnt der Umbruch vom Bauerndorf zur Industriesiedlung. |
-| 28. Dezember 1884 | Aufnahme von [Elias Appel](./steine/familie-appel.md) in das Bürgerregister der Gemeinde Dietesheim |
-| 20. Februar 1887 | Aufnahme von Benjamin Rollmann ins Bürgerregister Mühlheim |
-| 19. Dezember 1887 | **Gründung der israelitischen Gemeinde in Mühlheim am Main.** Julius Fried wird erster Vorsteher. |
-| 22. Juli 1890 | Aufnahme von Theodor Rollmann ins Bürgerregister Mühlheim |
-| 01. Oktober 1892 | Schließung des alten und Eröffnung des neuen Friedhofs in Groß-Steinheim |
-| 24. Juni 1893 | Der jüdische Friedhof in der heutigen Leuschnerstraße wird angelegt. |
-| Im Jahr 1895 | Das Kreiserziehungsheim wird in Mühlheim gebaut. Das erste der beiden Gebäude der Goetheschule wird errichtet. |
-| Im Jahr 1900 | Der berühmte Komponist Paul Hindemith zieht im Alter von vier Jahren mit seiner Familie von Hanau nach Mühlheim. |
-| Im Jahr 1910 | Peter Hatzebruch wird Bürgermeister in Mühlheim. |
-| 01. August 1914 | Beginn des Ersten Weltkriegs |
-| 08. August 1914 | Einweihung der Synagoge in der Friedrichstraße |
+> Es ist insbesondere das Verdienst des Parteigenossen (Pg) *Jean Ott*, Offenbach, des ersten Ortsgruppenleiters, unermüdlich für des Führers Idee in Mühlheim die ersten Gefolgsleute geworben zu haben…
 
-> „Für die Einweihungsfeier wurde ein Synagogenchor gegründet. Er bestand aus 25 Mädchen und Jungen und probte zweimal wöchentlich unter der Leitung des Rabbiners und Volksschullehrers Leopold Oppenheimer aus Groß-Steinheim. Es sollte eine große Feier werden, die lange vorbereitet wurde. Doch eine Woche vorher begann die Katastrophe des Ersten Weltkriegs. ‚Sang- und klanglos trug man die Thorarollen und sonstige Geräte bei Nacht in ihre neue Wohnung. Damit war die Einweihung beendet', schreibt [**Leopold Isaak**](./steine/leopold-isaak.md), letzter Vorsteher der jüdischen Gemeinde in einer Chronik im Februar 1934."
+> Besonders verdient machte sich um die junge Ortsgruppe Pg. *Fritz Kugler*, der im Dezember 1930 der Partei beitrat und bis zu seinem allzu frühen Tod den Kassiererposten betreute…
 
-| Datum | Ereignis |
-|-------|----------|
-| 27. Dezember 1917 | **Sali Stiefel** stirbt im Alter von 34 Jahren als Ersatz-Reservist an der Front. |
-| 08. Oktober 1918 | In Mühlheim verstirbt Gefreiter **Hermann Rollmann** an seiner schweren Verletzung. |
-| 15. Januar 1920 | Tod von **Liebmann Isaak** im Alter von 66 Jahren |
-| 21. September 1921 | Felix Trejtnar wird der erste SPD-Bürgermeister Mühlheims. |
-| 01. April 1922 | Gründung der Mühlheimer Naturfreunde als „Touristenverein Die Naturfreunde" |
-| 02. Dezember 1925 | Gründung der I.G. Farbenindustrie AG |
-| Im Jahr 1926 | Das Farbwerk Mühlheim wird geschlossen. |
-| 12. Januar 1927 | Auswanderung von **Hermann Siwek** nach Amerika |
-| 02. Dezember 1930 | Die jüdische Gemeinde wählt einen neuen Gemeindevorstand: [**Leopold Isaak**](./steine/leopold-isaak.md), [**Samuel „Sally" Stern**](./steine/familie-stern.md) und **Aron Stiefel** werden bestätigt. |
-| 29. Februar 1932 | Auswanderung von **Siegfried Rollmann** nach England |
-| 24. Oktober 1932 | Die jüdische Gemeinde stellt einen Antrag zur Erweiterung ihres Friedhofs. |
-| 06. Januar 1933 | Das Kreisamt in Offenbach erteilt die Genehmigung zur Erweiterung des Friedhofs der israelitischen Gemeinde zu Mühlheim. |
+> Pg. *Hermann Höhn* stellte damals sein Restaurant der Partei zur Verfügung, was den automatischen Boykott seitens der roten Anhängerschaft nach sich zog…
+
+>März und April 1931 wurden die Stützpunkt Dietesheim und Rumpenheim dem Ortsgruppenverband Mühlheim unterstellt…
+
+> Im Juni 1931 zählte die Ortsgruppe 16 Parteigenossen… Im Juli 1931 fand die erste öffentliche Großkundgebung der NSDAP in Mühlheim statt (Saalbau Weber)… Im August wurde eine zweite große Kundgebung veranstaltet, die sich trotz gegnerischen Terrors wieder zu einem eindrucksvollen Erfolg der Partei gestaltete.
+
+> Mit dem Jahr 1932 trat ein Mann an die Spitze der jungen Ortsgruppe, der bis auf den heutigen Tag die Führung beibehalten und die Ortsgruppe grundlegend aufgebaut hat, der jetzige Ortsgruppenleiter und Bürgermeister Pg. *Anton Winter*. Er war von der Partei geschult worden und setzte nun seine ganze jugendliche Energie ein für die ständige und systematische Ausgestaltung der Ortsgruppe, die sich um die SA kristallisierte.
+
+> Der Zustrom zu des Führers Fahne war damit schon so groß geworden, daß am 07. Mai 1932 der Stützpunkt Dietesheim zu einer Ortsgruppe ausgeweitet werden konnte, die allerdings organisatorisch mit der Ortsgruppe Mühlheim verbunden blieb.
 
 
 
@@ -89,11 +54,11 @@ Die Veränderungen im Leben der Mühlheimer und Dietesheimer Juden geschahen anf
 | 07. April | Erlass des „Gesetz zur Wiederherstellung des Berufsbeamtentums" |
 | 25. April | Arierparagraph wird bei allen Sport- und Turnvereinigungen eingeführt. |
 | 19. Mai | „Gleichschaltung" der Turngesellschaft (TGV) „Vorwärts". Vereinsausschluss des langjährigen Mitglieds **Herz „Hermann" Stiefel**. |
-| 03. Juni | Verbot zahlreicher Vereine in Mühlheim, Dietesheim und Lämmerspiel, darunter der Touristenverein „Die Naturfreunde". |
+| 03. Juni | Verbot zahlreicher Vereine in Mühlheim, Dietesheim und Lämmerspiel, darunter der [Touristenverein „Die Naturfreunde"](https://www.naturfreunde-muehlheim.de/). |
 | 12. Juni | Gleichschaltung des Schützenvereins, Vereinsausschluss von **Idel Siwek** (Mitbegründer des Vereins). |
 | 16. Juni | In Dietesheim leben 21 Juden, in Mühlheim 71 Juden und in Lämmerspiel keine. |
-| 30. Juni | Gleichschaltung des Gesangvereins „Eintracht", Vereinsausschluss von [**Albert Strauß**](./steine/albert-und-mathilde-strauss.md). |
-| 07. Juli | Gleichschaltung des „Gesang- und Sonntagsverein", Vereinsausschluss von [**Leopold Isaak**](./steine/leopold-isaak.md) (Vorsteher der jüdischen Gemeinde). |
+| 30. Juni | Gleichschaltung des Gesangvereins „Eintracht", Vereinsausschluss von [**Albert Strauß**](./steine/albert-und-mathilde-strauss). |
+| 07. Juli | Gleichschaltung des „Gesang- und Sonntagsverein", Vereinsausschluss von [**Leopold Isaak**](./steine/leopold-isaak) (Vorsteher der jüdischen Gemeinde). |
 | 25. Juli | Gleichschaltung des Fußballvereins „Kickers-Viktoria", Platzverbot und Vereinsausschluss für **Perenz Friz** und **Idel Siwek** sowie **Aron Stiefel** (Mitbegründer). |
 | 13. November | Umzug der Schwestern **Johanna** und **Laura Fried** nach Offenbach |
 
@@ -103,8 +68,8 @@ Die Veränderungen im Leben der Mühlheimer und Dietesheimer Juden geschahen anf
 
 | Datum | Ereignis |
 |-------|----------|
-| 18. Februar | „Chronik der israelitischen Religionsgemeinde Mühlheim a/Main" wird von [**Leopold Isaak**](./steine/leopold-isaak.md) erstellt. |
-| 24. Februar | Tod von [**Henriette Appel**](./steine/familie-appel.md), geb. Appel, im Alter von 76 Jahren |
+| 18. Februar | „Chronik der israelitischen Religionsgemeinde Mühlheim a/Main" wird von [**Leopold Isaak**](./steine/leopold-isaak) erstellt. |
+| 24. Februar | Tod von [**Henriette Appel**](./steine/familie-appel), geb. Appel, im Alter von 76 Jahren |
 | 28. April | Errichtung privater Bezirksschulen für Juden in Hessen |
 | 17. September | Flucht von **Julius** und **Meta Wolf**, geb. Stark, in die USA |
 | 09. Dezember | Umzug von **Johanna Berg**, geb. Wolf, zu ihrem Mann Ernst nach Kirn an der Nahe |
@@ -115,15 +80,15 @@ Die Veränderungen im Leben der Mühlheimer und Dietesheimer Juden geschahen anf
 
 | Datum | Ereignis |
 |-------|----------|
-| 01. April | Untersuchungshaft für [**Leopold Isaak**](./steine/leopold-isaak.md) im Gerichtsgefängnis Offenbach |
+| 01. April | Untersuchungshaft für [**Leopold Isaak**](./steine/leopold-isaak) im Gerichtsgefängnis Offenbach |
 | 14. Mai | Tod von **Rebekka Strauß**, geb. Rollmann, im Alter von 74 Jahren |
 | 03. August | Die Dietesheimer Ortsgruppe veranstaltet einen Propagandamarsch, um die Bevölkerung dazu zu bewegen, nicht mehr bei den drei örtlichen jüdischen Metzgern einzukaufen. |
-| 15. August | Verurteilung von [**Leopold Isaak**](./steine/leopold-isaak.md) zu 10 Monaten Gefängnis wegen Schächtens; Strafverbüßung in der Strafanstalt Butzbach |
+| 15. August | Verurteilung von [**Leopold Isaak**](./steine/leopold-isaak) zu 10 Monaten Gefängnis wegen Schächtens; Strafverbüßung in der Strafanstalt Butzbach |
 | 15. September | **Verkündung der „Nürnberger Gesetze"** — Juden werden zu Menschen zweiter Klasse degradiert. Das „Gesetz zum Schutz des deutschen Blutes und der deutschen Ehre" verbietet die Eheschließung zwischen Juden und Nichtjuden. |
-| 22. September | Angeblicher Selbstmordversuch von [**Leopold Isaak**](./steine/leopold-isaak.md) |
+| 22. September | Angeblicher Selbstmordversuch von [**Leopold Isaak**](./steine/leopold-isaak) |
 | 27. September | Tod von **Adolf Rollmann** im Alter von 65 Jahren |
-| 09. Dezember | Vorzeitige Entlassung von [**Leopold Isaak**](./steine/leopold-isaak.md) aus Butzbach |
-| 23. Dezember | Umzug von [**Mathilde Stiefel**](./steine/mathilde-stiefel.md) zu ihrer Schwester **Gredchen „Gretel" Schröder**, geb. Stiefel, nach Offenbach |
+| 09. Dezember | Vorzeitige Entlassung von [**Leopold Isaak**](./steine/leopold-isaak) aus Butzbach |
+| 23. Dezember | Umzug von [**Mathilde Stiefel**](./steine/mathilde-stiefel) zu ihrer Schwester **Gredchen „Gretel" Schröder**, geb. Stiefel, nach Offenbach |
 
 
 
@@ -131,9 +96,9 @@ Die Veränderungen im Leben der Mühlheimer und Dietesheimer Juden geschahen anf
 
 | Datum | Ereignis |
 |-------|----------|
-| 12. Januar | Während eines Theaterabends des Winterhilfswerks in Dietesheim verweist ein SA-Oberscharführer vier Frauen der [**Familie Appel**](./steine/familie-appel.md) des Saals. |
+| 12. Januar | Während eines Theaterabends des Winterhilfswerks in Dietesheim verweist ein SA-Oberscharführer vier Frauen der [**Familie Appel**](./steine/familie-appel) des Saals. |
 | 01. April | 11 jüdische Kinder aus Mühlheim besuchen die Jüdische Bezirksschule in Offenbach. |
-| 15. April | Ausschluss eines Parteigenossen aus der NSDAP wegen „parteischädigenden Verhaltens, indem er anlässlich der Veranstaltung am 12.01.36 in Dietesheim Juden Einlass gewährte". |
+| 15. April | Ausschluss eines Parteigenossen aus der NSDAP wegen „parteischädigenden Verhaltens, indem er anlässlich der Veranstaltung am 12.Januar in Dietesheim Juden Einlass gewährte". |
 
 
 
@@ -143,14 +108,14 @@ Im Jahr 1937 war die Anzahl der Emigranten aus Mühlheim und Dietesheim sowie di
 
 | Datum | Ereignis |
 |-------|----------|
-| 25. Januar | Flucht von [Nathan** und Rosa Appel](./steine/familie-appel.md), geb. Moritz, mit ihren Töchtern Heda, Hannelore und Gerda nach Johannisburg |
-| 15. Februar | Tod von **Gerson Strauß** im Alter von 81 Jahren |
-| 04. März | Endgültige Schließung der Metzgerei **Ludwig Wolf** und Überwachung der Metzgerei [Bernhard Appel](./steine/familie-appel.md) |
-| 01. April | Flucht von [Emanuel und Paula Appel](./steine/familie-appel.md), geb. Lind, mit ihrer Tochter Martha Berta in die USA |
-| 03. Mai | Umzug von **Arnold Stiefel** nach Offenbach |
-| 17. Mai | Flucht von **Ernst** und **Johanna Berg**, geb. Wolf, nach Cleveland |
-| 18. Mai | Flucht von **Sally** und **Hilda Blumenthal**, geb. Stiefel, mit ihren Kindern Sieghard, Ruth und Manfred über Mailand nach New York |
-| 28. September | Flucht von **Irene Strauß** nach New York |
+| 25. Januar | Flucht von [Nathan** und Rosa Appel](./steine/familie-appel), geb. Moritz, mit ihren Töchtern Heda, Hannelore und Gerda nach Johannisburg. |
+| 15. Februar | Tod von **Gerson Strauß** im Alter von 81 Jahren. |
+| 04. März | Endgültige Schließung der Metzgerei **Ludwig Wolf** und Überwachung der Metzgerei [Bernhard Appel](./steine/familie-appel). |
+| 01. April | Flucht von [Emanuel und Paula Appel](./steine/familie-appel), geb. Lind, mit ihrer Tochter Martha Berta in die USA. |
+| 03. Mai | Umzug von **Arnold Stiefel** nach Offenbach. |
+| 17. Mai | Flucht von **Ernst** und **Johanna Berg**, geb. Wolf, nach Cleveland. |
+| 18. Mai | Flucht von **Sally** und **Hilda Blumenthal**, geb. Stiefel, mit ihren Kindern Sieghard, Ruth und Manfred über Mailand nach New York. |
+| 28. September | Flucht von **Irene Strauß** nach New York. |
 
 
 
@@ -159,19 +124,19 @@ Im Jahr 1937 war die Anzahl der Emigranten aus Mühlheim und Dietesheim sowie di
 | Datum | Ereignis |
 |-------|----------|
 | 01. Januar | Juden im Deutschen Reich wird das Betreiben von Einzelhandelsgeschäften und Handwerksbetrieben untersagt. |
-| 07. März | Flucht von [**Mordechai Chmielnicki**](./steine/familie-chmielnicki.md) über die Schweiz und Mailand nach England |
-| 15. März | Arisierung und Zwangsverkauf eines Grundstücks von **Aron Stiefel** |
-| 26. April | Verordnung über die Anmeldung jüdischen Vermögens |
-| 01. Juni | Flucht von **Arnold Rollmann** nach Pittsburgh; Arisierung und Zwangsverkauf eines Grundstücks von **Theodor Rollmann** |
-| 05. Juli | Flucht von **Salomon** und **Ruth Rollmann**, geb. Lindheimer, mit ihrem Sohn Kurt Norbert nach Milwaukee |
-| 23. Juli | Flucht von **Alfred** und **Klara Stein**, geb. Rollmann, nach Milwaukee |
-| 17. August | Verordnung: Zusätzliche Vornamen „Sara" oder „Israel" ab 01.01.1939 |
-| 19. September | Tod von **Sara Rollmann**, geb. Flörsheim, im Alter von 71 Jahren |
-| 26. September | Flucht von **Leo Rollmann** in die USA |
-| 05. Oktober | Kennzeichnung der jüdischen Reisepässe durch ein großes rotes „J" |
-| 07. Oktober | Flucht der Geschwister **Siegfried** und **Edith Stern** nach New York |
-| 24. Oktober | Flucht von **Justus** und **Erna Rollmann**, geb. Kraft, nach Pittsburgh sowie deren Mutter **Johanna Rollmann**, geb. Strauß, nach London |
-| 27. Oktober | Flucht von **Arnold Isaak** in die USA |
+| 07. März | Flucht von [**Mordechai Chmielnicki**](./steine/familie-chmielnicki) über die Schweiz und Mailand nach England. |
+| 15. März | Arisierung und Zwangsverkauf eines Grundstücks von **Aron Stiefel**. |
+| 26. April | Verordnung über die Anmeldung jüdischen Vermögens. |
+| 01. Juni | Flucht von **Arnold Rollmann** nach Pittsburgh. Arisierung und Zwangsverkauf eines Grundstücks von **Theodor Rollmann**. |
+| 05. Juli | Flucht von **Salomon** und **Ruth Rollmann**, geb. Lindheimer, mit ihrem Sohn Kurt Norbert nach Milwaukee. |
+| 23. Juli | Flucht von **Alfred** und **Klara Stein**, geb. Rollmann, nach Milwaukee. |
+| 17. August | Verordnung: Zusätzliche Vornamen „Sara" oder „Israel" ab 01. Januar 1939 |
+| 19. September | Tod von **Sara Rollmann**, geb. Flörsheim, im Alter von 71 Jahren. |
+| 26. September | Flucht von **Leo Rollmann** in die USA. |
+| 05. Oktober | Kennzeichnung der jüdischen Reisepässe durch ein großes rotes „J". |
+| 07. Oktober | Flucht der Geschwister **Siegfried** und **Edith Stern** nach New York. |
+| 24. Oktober | Flucht von **Justus** und **Erna Rollmann**, geb. Kraft, nach Pittsburgh sowie deren Mutter **Johanna Rollmann**, geb. Strauß, nach London. |
+| 27. Oktober | Flucht von **Arnold Isaak** in die USA. |
 
 
 
@@ -179,26 +144,26 @@ Im Jahr 1937 war die Anzahl der Emigranten aus Mühlheim und Dietesheim sowie di
 
 So waren bis Anfang November 1938 einundfünfzig Juden aus Mühlheim und Dietesheim aus dem Alltagsleben „verschwunden".
 
-Am Mittwoch, dem **09.11.1938**, ereignete sich ein weiterer Wendepunkt in der „Judenpolitik" der Nationalsozialisten: der zynisch und verharmlosend als „Reichskristallnacht" bezeichnete Pogrom.
+Am Mittwoch, dem **9. November 1938**, ereignete sich ein weiterer Wendepunkt in der „Judenpolitik" der Nationalsozialisten: der zynisch und verharmlosend als „Reichskristallnacht" bezeichnete Pogrom.
 
-Auslöser dafür war das Attentat des siebzehnjährigen **Herschel Grynszpan** in Paris am 07. November. Seine Motivation: Herschel Grynszpans Eltern gehörten zu den Ende Oktober ausgewiesenen polnischen Juden. Joseph Goebbels nutzte die Gunst der Stunde und löste durch eine Rede am 09.11.1938 im Alten Rathaussaal in München den reichsweiten Pogrom aus.
+Auslöser dafür war das Attentat des siebzehnjährigen **Herschel Grynszpan** in Paris am 7. November. Seine Motivation: Herschel Grynszpans Eltern gehörten zu den Ende Oktober ausgewiesenen polnischen Juden. Joseph Goebbels nutzte die Gunst der Stunde und löste durch eine Rede am  9. November im Alten Rathaussaal in München den reichsweiten Pogrom aus.
 
-**In Mühlheim** wurde in der Synagoge in der „Spinatgasse" Feuer gelegt. Zeugenaussagen zufolge waren an der Zerstörung der Synagoge vier Nazis beteiligt. Sie schlugen die Tür mit einer Axt ein, steckten die Eichenholzbänke mit benzingetränkten Kleidungsstücken in Brand und rissen Löcher ins Dach. Das Textil- und Herrenkonfektionsgeschäft von [**Sally Stern**](./steine/familie-stern.md) und die Wohnungen der Mühlheimer Juden wurden gestürmt und geplündert.
+**In Mühlheim** wurde in der Synagoge in der „Spinatgasse" Feuer gelegt. Zeugenaussagen zufolge waren an der Zerstörung der Synagoge vier Nazis beteiligt. Sie schlugen die Tür mit einer Axt ein, steckten die Eichenholzbänke mit benzingetränkten Kleidungsstücken in Brand und rissen Löcher ins Dach. Das Textil- und Herrenkonfektionsgeschäft von [**Sally Stern**](./steine/familie-stern) und die Wohnungen der Mühlheimer Juden wurden gestürmt und geplündert.
 
 Der Kreisleiter besuchte nach dem Brand die Synagoge und schlug mit einem Hammer die Gedenktafel für die im Ersten Weltkrieg gefallenen Juden in Stücke.
 
-[**Leopold Isaak**](./steine/leopold-isaak.md) konnte mit einem Kinderwagen die zwei Thora-Rollen aus dem Schrein retten, bevor die Randalierer eintrafen, und vergrub sie im Keller seines Hauses.
+[**Leopold Isaak**](./steine/leopold-isaak) konnte mit einem Kinderwagen die zwei Thora-Rollen aus dem Schrein retten, bevor die Randalierer eintrafen und vergrub sie im Keller seines Hauses.
 
 | Datum | Ereignis |
 |-------|----------|
 | 09. November | **Reichspogromnacht** — **Idel Siwek** (Buchenwald-Häftlings-Nr. 25834) wird durch den Ortspolizeimeister nach Buchenwald gebracht. |
-| 10. November | Verwüstung und Brandstiftung in der Synagoge in Mühlheim; Plünderung des Textilgeschäfts von [**Sally Stern**](./steine/familie-stern.md); Verschleppung von [**Leopold Isaak**](./steine/leopold-isaak.md), **Perenz Friz**, [**Hermann Stern**](./steine/familie-stern.md), **Ludwig** und **Joseph Wolf** sowie **Bernhard**, **Moritz** und [**Max Appel**](./steine/familie-appel.md) ins KZ Buchenwald |
-| 21. November | Flucht von **Theodor Rollmann** in die USA |
-| 23. November | Entlassung von [**Hermann Stern**](./steine/familie-stern.md) aus dem KZ Buchenwald |
-| 05. Dezember | Entlassung von **Ludwig Wolf** aus dem KZ Buchenwald |
-| 15. Dezember | Flucht von **Selma Engländer**, geb. Stiefel, nach Los Angeles |
-| 16. Dezember | Entlassung von **Joseph Wolf** aus dem KZ Buchenwald |
-| Ende Dezember | Verkauf des Textilgeschäfts von [**Sally Stern**](./steine/familie-stern.md) |
+| 10. November | Verwüstung und Brandstiftung in der Synagoge in Mühlheim; Plünderung des Textilgeschäfts von [**Sally Stern**](./steine/familie-stern); Verschleppung von [**Leopold Isaak**](./steine/leopold-isaak), **Perenz Friz**, [**Hermann Stern**](./steine/familie-stern), **Ludwig** und **Joseph Wolf** sowie **Bernhard**, **Moritz** und [**Max Appel**](./steine/familie-appel) ins KZ Buchenwald. |
+| 21. November | Flucht von **Theodor Rollmann** in die USA. |
+| 23. November | Entlassung von [**Hermann Stern**](./steine/familie-stern) aus dem KZ Buchenwald. |
+| 05. Dezember | Entlassung von **Ludwig Wolf** aus dem KZ Buchenwald. |
+| 15. Dezember | Flucht von **Selma Engländer**, geb. Stiefel, nach Los Angeles. |
+| 16. Dezember | Entlassung von **Joseph Wolf** aus dem KZ Buchenwald. |
+| Ende Dezember | Verkauf des Textilgeschäfts von [**Sally Stern**](./steine/familie-stern). |
 
 Die Verbrechen vom November 1938 waren wichtige Schritte auf dem Weg zur Shoa. Die Erfahrung der Nazi-Machthaber, dass Massenproteste seitens der deutschen Bevölkerung ausblieben, ging in die Planung und Durchführung ihrer späteren Taten ein.
 
@@ -208,18 +173,18 @@ Die Verbrechen vom November 1938 waren wichtige Schritte auf dem Weg zur Shoa. D
 
 | Datum | Ereignis |
 |-------|----------|
-| Anfang 1939 | Flucht von **Leopold** und **Jettchen Appel**, geb. Salomon, in die USA |
-| 18. Januar | Flucht von **Norbert Stiefel** nach Rhodesien |
-| 19. Januar | Verkauf der geschändeten Synagoge durch [**Leopold Isaak**](./steine/leopold-isaak.md), [**Moritz Lehmann**](./steine/moritz-und-berta-lehmann.md) und **Chaim Tyson** aus Offenbach an die Eheleute Johann Haus |
-| 28. Januar | Entlassung von **Idel Siwek** aus dem KZ Buchenwald |
-| 30. Januar | Entlassung von **Bernhard** und [**Moritz Appel**](./steine/familie-appel.md) sowie **Perenz Friz** aus dem KZ Buchenwald |
-| 13. Februar | Entlassung von [**Leopold Isaak**](./steine/leopold-isaak.md) aus dem KZ Buchenwald |
-| 14. Februar | Flucht von **Ludwig Wolf** nach Cleveland |
-| 23. Februar | Flucht von [**Hermann Stern**](./steine/familie-stern.md) mit seiner Nichte Erna nach Baldock/England sowie von **Hermann** und **Magdalene Lind**, geb. Stiefel, mit ihren Kindern nach New York |
-| 01. April | Die Gemeinden Mühlheim und Dietesheim werden zusammengeschlossen und als „Mühlheim am Main" zur Stadt erhoben. Die Feierlichkeiten finden unter Ausschluss der jüdischen Bevölkerung statt. Die jüdischen Männer leisten Zwangsarbeit für die Gemeinde. **Idel Siwek** wird ein zweites Mal festgenommen. |
-| 12. Juni | Umzug von **Sally** und **Thekla Stern**, geb. Marum, mit ihrem Sohn Helmut nach Frankfurt am Main |
-| 11. Juli | Tod von **Therese Isaak**, geb. Adler, im Alter von 86 Jahren |
-| 29. Dezember | Flucht von **Melitta Isaak**, geb. Strauß, mit ihren vier Söhnen **Liebmann**, **Lothar Ludwig**, **Herbert** und **Josef** nach Buenos Aires |
+| Anfang 1939 | Flucht von **Leopold** und **Jettchen Appel**, geb. Salomon, in die USA. |
+| 18. Januar | Flucht von **Norbert Stiefel** nach Rhodesien. |
+| 19. Januar | Verkauf der geschändeten Synagoge durch [**Leopold Isaak**](./steine/leopold-isaak), [**Moritz Lehmann**](./steine/moritz-und-berta-lehmann) und **Chaim Tyson** aus Offenbach an die Eheleute Johann Haus. |
+| 28. Januar | Entlassung von **Idel Siwek** aus dem KZ Buchenwald. |
+| 30. Januar | Entlassung von **Bernhard** und [**Moritz Appel**](./steine/familie-appel) sowie **Perenz Friz** aus dem KZ Buchenwald. |
+| 13. Februar | Entlassung von [**Leopold Isaak**](./steine/leopold-isaak) aus dem KZ Buchenwald. |
+| 14. Februar | Flucht von **Ludwig Wolf** nach Cleveland. |
+| 23. Februar | Flucht von [**Hermann Stern**](./steine/familie-stern) mit seiner Nichte Erna nach Baldock/England sowie von **Hermann** und **Magdalene Lind**, geb. Stiefel, mit ihren Kindern nach New York. |
+| 01. April | Die Gemeinden Mühlheim und Dietesheim werden zusammengeschlossen und als [„Mühlheim am Main" zur Stadt](https://www.muehlheim.de/) erhoben. Die Feierlichkeiten finden unter Ausschluss der jüdischen Bevölkerung statt. Die jüdischen Männer leisten Zwangsarbeit für die Gemeinde. **Idel Siwek** wird ein zweites Mal festgenommen. |
+| 12. Juni | Umzug von **Sally** und **Thekla Stern**, geb. Marum, mit ihrem Sohn Helmut nach Frankfurt am Main. |
+| 11. Juli | Tod von **Therese Isaak**, geb. Adler, im Alter von 86 Jahren. |
+| 29. Dezember | Flucht von **Melitta Isaak**, geb. Strauß, mit ihren vier Söhnen **Liebmann**, **Lothar Ludwig**, **Herbert** und **Josef** nach Buenos Aires. |
 
 
 
@@ -230,8 +195,8 @@ Die Verbrechen vom November 1938 waren wichtige Schritte auf dem Weg zur Shoa. D
 | Datum | Ereignis |
 |-------|----------|
 | 01. Januar | **Wolf Wladislaw Siwek** wird von der Gestapo verschleppt. |
-| Anfang 1940 | Flucht von [**Max Appel**](./steine/familie-appel.md) nach Milwaukee |
-| 06. März | Umzug von [**Bertha Stiefel**](./steine/bertha-stiefel.md) nach Worms |
+| Anfang 1940 | Flucht von [**Max Appel**](./steine/familie-appel) nach Milwaukee |
+| 06. März | Umzug von [**Bertha Stiefel**](./steine/bertha-stiefel) nach Worms |
 | 14. März | Flucht von **Aron** und **Hilda Stiefel**, geb. Kahn, nach Mosambik |
 | 04. Mai | Juden dürfen im Sommer ihre Wohnung zwischen 21.00 Uhr und 05.00 Uhr und im Winter zwischen 20.00 Uhr und 06.00 Uhr nicht mehr verlassen. |
 | 09. September | **Chaja Ita Friz** erhält vom Bürgermeister die Genehmigung, sich „unter Vorbehalt des jederzeitigen Widerrufes" weiterhin als Schneiderin und Friseuse zu betätigen – beschränkt auf die Bedienung von Juden. |
@@ -248,7 +213,7 @@ Ende April 1941 begann endgültig die physische Vernichtung der in Mühlheim und
 | 17. Mai | Flucht von **Herz „Hermann"** und **Elisabetha Stiefel**, geb. Hirsch, über Spanien und Portugal in die USA (letzte Flucht aus Mühlheim) |
 | 22. Juni | Überfall der deutschen Wehrmacht auf die Sowjetunion |
 | 01. September | Ab 15.09.1941 hatten alle Juden vom 6. Lebensjahr an in der Öffentlichkeit einen **Judenstern** zu tragen. |
-| 01. November | [**Dora Chmielnicki**](./steine/familie-chmielnicki.md) zieht mit ihren Kindern zu [**Mathilde Stiefel**](./steine/mathilde-stiefel.md) in die Offenbacher Straße 10. |
+| 01. November | [**Dora Chmielnicki**](./steine/familie-chmielnicki) zieht mit ihren Kindern zu [**Mathilde Stiefel**](./steine/mathilde-stiefel) in die Offenbacher Straße 10. |
 | 22. November | Deportation von **Pauline Fleischer**, geb. Isaak, aus Frankfurt nach Kaunas |
 | 25. November | Ankunft in Kaunas und Erschießung von **Pauline Fleischer** zusammen mit 2.933 anderen Menschen |
 | 23. Oktober | Verbot der Auswanderung von Juden aus Deutschland |
@@ -256,16 +221,16 @@ Ende April 1941 begann endgültig die physische Vernichtung der in Mühlheim und
 
 
 
-### Als ersten Mühlheimer traf es [Moritz Lehmann](./steine/moritz-und-berta-lehmann.md)
+### Als ersten Mühlheimer traf es [Moritz Lehmann](./steine/moritz-und-berta-lehmann)
 
-:::info [Moritz Lehmann](./steine/moritz-und-berta-lehmann.md)
-[**Lehmann, Moritz**](./steine/moritz-und-berta-lehmann.md) \* 26.05.1884 in Darmstadt — † 08.05.1942 KZ Sachsenhausen
+:::info [Moritz Lehmann](./steine/moritz-und-berta-lehmann)
+[**Lehmann, Moritz**](./steine/moritz-und-berta-lehmann) \* 26.05.1884 in Darmstadt — † 08.05.1942 KZ Sachsenhausen
 
-[Moritz Lehmann](./steine/moritz-und-berta-lehmann.md) war Händler. Er war mit [Berta Lehmann](./steine/moritz-und-berta-lehmann.md) verheiratet und wohnte in der Apfelbaumgasse 5. Er wurde 57 Jahre alt.
+[Moritz Lehmann](./steine/moritz-und-berta-lehmann) war Händler. Er war mit [Berta Lehmann](./steine/moritz-und-berta-lehmann) verheiratet und wohnte in der Apfelbaumgasse 5. Er wurde 57 Jahre alt.
 
-[Moritz Lehmann](./steine/moritz-und-berta-lehmann.md) wurde am 30.04.1941 durch die Gestapo in das Gerichtsgefängnis Offenbach eingeliefert. Am 17.06.1941 wurde er von dort in ein KZ überstellt. Er ist am 08.05.1942, um 04.00 Uhr, im KZ Sachsenhausen (Häftlings-Nr. 40013) gestorben.
+[Moritz Lehmann](./steine/moritz-und-berta-lehmann) wurde am 30.04.1941 durch die Gestapo in das Gerichtsgefängnis Offenbach eingeliefert. Am 17.06.1941 wurde er von dort in ein KZ überstellt. Er ist am 08.05.1942, um 04.00 Uhr, im KZ Sachsenhausen (Häftlings-Nr. 40013) gestorben.
 
-Arnold Isaak, Neffe von [Moritz Lehmann](./steine/moritz-und-berta-lehmann.md), berichtet: *„Als ich einmal nach meinem Onkel [Moritz Lehmann](./steine/moritz-und-berta-lehmann.md) fragte, dem Mann von Bertel, der Schwester meines Vaters, erfuhr ich, er wäre auf eine Geschäftsreise gegangen. Es ist wahr, dass er auf Reise ging, aber er kam nicht mehr nach Hause. Eines Tages, ungefähr drei Wochen nach seinem Verschwinden, bekam meine Tante Bertel eine Nachricht von den „ordentlichen Leuten" der Gestapo. Sie teilten ihr mit, sie könnte die Asche bekommen, wenn sie 500,00 Mark einzahlen würde, fünfhundert Reichsmark."*
+Arnold Isaak, Neffe von [Moritz Lehmann](./steine/moritz-und-berta-lehmann), berichtet: *„Als ich einmal nach meinem Onkel [Moritz Lehmann](./steine/moritz-und-berta-lehmann) fragte, dem Mann von Bertel, der Schwester meines Vaters, erfuhr ich, er wäre auf eine Geschäftsreise gegangen. Es ist wahr, dass er auf Reise ging, aber er kam nicht mehr nach Hause. Eines Tages, ungefähr drei Wochen nach seinem Verschwinden, bekam meine Tante Bertel eine Nachricht von den „ordentlichen Leuten" der Gestapo. Sie teilten ihr mit, sie könnte die Asche bekommen, wenn sie 500,00 Mark einzahlen würde, fünfhundert Reichsmark."*
 :::
 
 
@@ -280,13 +245,13 @@ Arnold Isaak, Neffe von [Moritz Lehmann](./steine/moritz-und-berta-lehmann.md), 
 | 17. Februar | Zeitungen, Zeitschriften und Bücher dürfen nicht mehr gekauft werden. |
 
 :::info Bertha Stiefel
-[**Stiefel, Bertha**](./steine/bertha-stiefel.md) \* 01.04.1878 in Mühlheim am Main — † unbekannt
+[**Stiefel, Bertha**](./steine/bertha-stiefel) \* 01.04.1878 in Mühlheim am Main — † unbekannt
 
 Bertha Stiefel war Hausfrau, ledig und wohnte in der Pfarrgasse 23. Sie kam am 07.03.1940 von Mühlheim ins jüdische Altersheim nach Worms. Am 25.03.1942 wurde sie mit 1.000 Juden von Darmstadt ins „Lager Piaski-Lublin" deportiert. Das Ghetto Piaski diente als Durchgangsstation in die Vernichtungsstätten Bełżec, Majdanek, Treblinka und Sobibór. Wann genau Bertha Stiefel ermordet wurde, ist nicht bekannt. Sie war zum Zeitpunkt der Deportation 63 Jahre alt.
 :::
 
 :::info Helmut Stern
-[**Stern, Helmut**](./steine/familie-stern.md) \* 08.05.1921 in Frankfurt am Main — † 05.08.1942 KZ Majdanek
+[**Stern, Helmut**](./steine/familie-stern) \* 08.05.1921 in Frankfurt am Main — † 05.08.1942 KZ Majdanek
 
 Helmut Stern war Zuschneider. Er zog mit seinen Eltern am 12.06.1939 nach Frankfurt am Main. Nach den vorliegenden Daten kommt eigentlich nur der Frankfurter Transport am 11.06.1942 in die KZs Majdanek/Sobibór in Frage. Er starb am 05.08.1942 im Alter von 21 Jahren.
 :::
@@ -297,14 +262,14 @@ Helmut Stern war Zuschneider. Er zog mit seinen Eltern am 12.06.1939 nach Frankf
 
 In Ausführung der Beschlüsse der Wannseekonferenz vom 20.01.1942 wurde auch in Mühlheim und Dietesheim eine große Deportationsaktion durchgeführt.
 
-Am Donnerstag, dem **17.09.1942**, wurden 18 noch in Mühlheim und Dietesheim lebende Juden von der Gestapo aus ihren Wohnungen geholt. Sie durften nur wenig Gepäck mitnehmen und wurden im Innenhof des Mühlheimer Rathauses zusammengetrieben, um anschließend auf Lastwagen nach Offenbach transportiert zu werden. [**Leopold Isaak**](./steine/leopold-isaak.md) winkte den ihm bekannten Mühlheimern vom Lkw aus noch zu.
+Am Donnerstag, dem **17.09.1942**, wurden 18 noch in Mühlheim und Dietesheim lebende Juden von der Gestapo aus ihren Wohnungen geholt. Sie durften nur wenig Gepäck mitnehmen und wurden im Innenhof des Mühlheimer Rathauses zusammengetrieben, um anschließend auf Lastwagen nach Offenbach transportiert zu werden. [**Leopold Isaak**](./steine/leopold-isaak) winkte den ihm bekannten Mühlheimern vom Lkw aus noch zu.
 
 Von Offenbach kamen die Verschleppten nach Darmstadt, wo sie in der Justus-Liebig-Schule kaserniert wurden. Von dort erfolgte die Aufteilung auf verschiedene Deportationszüge in die Konzentrationslager.
 
 :::info Moritz Appel
-[**Appel, Moritz**](./steine/familie-appel.md) \* 20.12.1863 in Hochstadt — † 19.12.1942 KZ Theresienstadt
+[**Appel, Moritz**](./steine/familie-appel) \* 20.12.1863 in Hochstadt — † 19.12.1942 KZ Theresienstadt
 
-[Moritz Appel](./steine/familie-appel.md) war Metzger und seit 1889 mit [Henriette Appel](./steine/familie-appel.md) verheiratet. Er wohnte in der Obermainstraße 13. Er wurde am 27.09.1942 mit 1.288 Juden von Darmstadt nach Theresienstadt deportiert. [Moritz Appel](./steine/familie-appel.md) überlebte die Ankunft in Theresienstadt nur um 82 Tage. Er starb am 19.12.1942, einen Tag vor seinem 79. Geburtstag.
+[Moritz Appel](./steine/familie-appel) war Metzger und seit 1889 mit [Henriette Appel](./steine/familie-appel) verheiratet. Er wohnte in der Obermainstraße 13. Er wurde am 27.09.1942 mit 1.288 Juden von Darmstadt nach Theresienstadt deportiert. [Moritz Appel](./steine/familie-appel) überlebte die Ankunft in Theresienstadt nur um 82 Tage. Er starb am 19.12.1942, einen Tag vor seinem 79. Geburtstag.
 :::
 
 Am **30.09.1942** wurden die übrigen Mühlheimer und Dietesheimer Juden weggebracht. Zusammen mit 883 weiteren Juden wurden sie von Darmstadt nach Treblinka deportiert. Der Zug traf am **02.10.1942** im Vernichtungslager Treblinka ein.
@@ -313,34 +278,34 @@ Am **30.09.1942** wurden die übrigen Mühlheimer und Dietesheimer Juden weggebr
 
 | Name | geboren | gestorben |
 |------|---------|-----------|
-| [Appel, Bernhard](./steine/familie-appel.md) | 22.10.1882 in Dietesheim | 15.09.1943 |
-| [Appel, Rosa](./steine/familie-appel.md), geb. Rosenthal | 25.04.1887 | 15.09.1943 |
-| [**Appel, Bertha**](./steine/familie-appel.md) | 26.06.1891 in Dietesheim | 02.10.1942 KZ Treblinka |
-| [Appel, Johanna](./steine/familie-appel.md) | 02.03.1894 in Dietesheim | 02.10.1942 KZ Treblinka |
-| [**Chmielnicki, Dwojra (Dora)**](./steine/familie-chmielnicki.md), geb. Pinkus | 21.08.1901 in Mrzyglod/Polen | 17.09.1942 |
-| [**Chmielnicki, Arno**](./steine/familie-chmielnicki.md) | 06.11.1931 in Frankfurt am Main | 17.09.1942 |
-| [**Chmielnicki, Sonja**](./steine/familie-chmielnicki.md) | 24.10.1927 in Frankfurt am Main | 17.09.1942 |
+| [Appel, Bernhard](./steine/familie-appel) | 22.10.1882 in Dietesheim | 15.09.1943 |
+| [Appel, Rosa](./steine/familie-appel), geb. Rosenthal | 25.04.1887 | 15.09.1943 |
+| [**Appel, Bertha**](./steine/familie-appel) | 26.06.1891 in Dietesheim | 02.10.1942 KZ Treblinka |
+| [Appel, Johanna](./steine/familie-appel) | 02.03.1894 in Dietesheim | 02.10.1942 KZ Treblinka |
+| [**Chmielnicki, Dwojra (Dora)**](./steine/familie-chmielnicki), geb. Pinkus | 21.08.1901 in Mrzyglod/Polen | 17.09.1942 |
+| [**Chmielnicki, Arno**](./steine/familie-chmielnicki) | 06.11.1931 in Frankfurt am Main | 17.09.1942 |
+| [**Chmielnicki, Sonja**](./steine/familie-chmielnicki) | 24.10.1927 in Frankfurt am Main | 17.09.1942 |
 | **Friz, Chaja Ita**, geb. Ginsberg | 15.12.1895 in Zawiercie/Polen | 02.10.1942 KZ Treblinka |
 | **Friz, Perenz** | 23.12.1898 in Chencin/Polen | 02.10.1942 KZ Treblinka |
 | **Friz, Leopold** | 09.05.1921 in Mühlheim | 02.10.1942 KZ Treblinka |
-| [**Isaak, Leopold**](./steine/leopold-isaak.md) | 08.08.1894 in Mühlheim | 08.05.1945 |
-| [**Lehmann, Berta**](./steine/moritz-und-berta-lehmann.md), geb. Isaak | 11.10.1882 in Mühlheim | 02.10.1942 KZ Treblinka |
+| [**Isaak, Leopold**](./steine/leopold-isaak) | 08.08.1894 in Mühlheim | 08.05.1945 |
+| [**Lehmann, Berta**](./steine/moritz-und-berta-lehmann), geb. Isaak | 11.10.1882 in Mühlheim | 02.10.1942 KZ Treblinka |
 | **Stiefel, Mathilde** | 23.04.1889 in Mühlheim | 08.05.1945 |
-| [**Strauß, Albert**](./steine/albert-und-mathilde-strauss.md) | 20.06.1883 in Sprendlingen | 08.05.1945 |
-| [**Strauß, Mathilde**](./steine/albert-und-mathilde-strauss.md), geb. Strauß | 21.07.1886 in Mühlheim | 08.05.1945 |
+| [**Strauß, Albert**](./steine/albert-und-mathilde-strauss) | 20.06.1883 in Sprendlingen | 08.05.1945 |
+| [**Strauß, Mathilde**](./steine/albert-und-mathilde-strauss), geb. Strauß | 21.07.1886 in Mühlheim | 08.05.1945 |
 | **Wolf, Joseph** | 04.05.1899 in Dietesheim | 02.10.1942 KZ Treblinka |
 | **Wolf, Recha**, geb. Reis | 06.07.1900 in Mörfelden | 02.10.1942 KZ Treblinka |
 
-[Rosa Appel](./steine/familie-appel.md) erlitt bei der Trennung von ihrem Mann Bernhard einen Herzschlag.
+[Rosa Appel](./steine/familie-appel) erlitt bei der Trennung von ihrem Mann Bernhard einen Herzschlag.
 
 
 
 :::info Familie Stern
-[**Stern, Samuel (Sally)**](./steine/familie-stern.md) \* 22.12.1891 in Mühlheim — † 08.05.1945
+[**Stern, Samuel (Sally)**](./steine/familie-stern) \* 22.12.1891 in Mühlheim — † 08.05.1945
 
-[**Stern, Thekla**](./steine/familie-stern.md), geb. Marum \* 03.10.1893 in Wallertheim — † 31.05.1944
+[**Stern, Thekla**](./steine/familie-stern), geb. Marum \* 03.10.1893 in Wallertheim — † 31.05.1944
 
-[Samuel Stern](./steine/familie-stern.md) und [Thekla Stern](./steine/familie-stern.md) wurden am 15.09.1942 ins KZ Theresienstadt deportiert. Von dort kamen beide am 16.05.1944 nach Auschwitz. Es ist anzunehmen, dass beide aufgrund ihres Alters zu den Opfern der Liquidation des Familienlagers gehören.
+[Samuel Stern](./steine/familie-stern) und [Thekla Stern](./steine/familie-stern) wurden am 15.09.1942 ins KZ Theresienstadt deportiert. Von dort kamen beide am 16.05.1944 nach Auschwitz. Es ist anzunehmen, dass beide aufgrund ihres Alters zu den Opfern der Liquidation des Familienlagers gehören.
 :::
 
 :::info Janette Distelburger & Rosa Hirsch
@@ -368,9 +333,9 @@ Johanna und Laura Fried wohnten in der Marktstraße 31, zogen am 16.11.1933 nach
 | 02. Januar | **Idel Siwek** wird erneut durch die Gestapo verhaftet, in Offenbach vernommen und nach Auschwitz gebracht. |
 | 03. März | **Anna Teesch**, geb. Friz, wird direkt nach der Ankunft in Auschwitz ermordet. |
 | 21. Mai | **Idel Siwek** und **Paula Hofmann** werden ins KZ Auschwitz eingeliefert. |
-| 27. Mai | [Stadt Mühlheim](https://www.muehlheim.de/) arisiert zwei Grundstücke von [**Bertha Appel**](./steine/familie-appel.md). |
+| 27. Mai | [Stadt Mühlheim](https://www.muehlheim.de/) arisiert zwei Grundstücke von [**Bertha Appel**](./steine/familie-appel). |
 | 21. Juni | **Fredy Teesch** stirbt in Auschwitz. |
-| 25. Juni | [Stadt Mühlheim](https://www.muehlheim.de/) arisiert das Haus von [**Bertha Appel**](./steine/familie-appel.md) in der Obermainstraße. |
+| 25. Juni | [Stadt Mühlheim](https://www.muehlheim.de/) arisiert das Haus von [**Bertha Appel**](./steine/familie-appel) in der Obermainstraße. |
 | 14. August | **Sofie Spahn** wird in den Gaskammern von Auschwitz ermordet. |
 | 5. Dezember | **Paula Hoffmann** wird in den Gaskammern von Auschwitz ermordet. |
 
@@ -399,7 +364,7 @@ Idel Siwek berichtete über seinen Leidensweg:
 | Datum | Ereignis |
 |-------|----------|
 | 5. Februar | Tod von **Janette Distelburger** in Theresienstadt. |
-| 15. Februar | Die [Stadt Mühlheim am Main](https://www.muehlheim.de/) erhält das sofortiger Nutzungs- und Kaufrecht für das Haus Obermainstraße 13, dass bis zum September 1942 [**Moritz Appel und seiner Familie**](./steine/familie-appel.md) gehörte. |
+| 15. Februar | Die [Stadt Mühlheim am Main](https://www.muehlheim.de/) erhält das sofortiger Nutzungs- und Kaufrecht für das Haus Obermainstraße 13, dass bis zum September 1942 [**Moritz Appel und seiner Familie**](./steine/familie-appel) gehörte. |
 | 15. Mai | **Adolf Distelburger**, **Sally Stern** und seine Frau **Thekla Stern** werden im Zuge der „Verschönerungsaktion“ des KZ Theresienstadt nach Auschwitz deportiert und im Familienlager B II b, dem sogenannten „Theresienstädter Familienlager“, untergebracht. |
 | 06. Juni | Landung der Alliierten in der Normandie |
 | 11. Juli | Anfang Juli 1944 wurden die im „Theresienstädter Familienlager“ verbliebenen Insassen einer Selektion unterzogen und etwa 3000 bis 3500 arbeitsfähige Männer und Frauen in andere Konzentrationslager überstellt. Die verbliebenen 6.500 bis 7.000 Insassen des Familienlagers wurden in der Nacht zum 11. Juli 1944 und in der darauffolgenden Nacht vergast. Mit diesem Massenmord endete das Bestehen des Familienlagers. Es ist anzunehmen, dass **Adolf Distelburger**, **Sally Stern** und **Thekla Stern** aufgrund ihres Alters mit zu den Ermordeten gehören. |
@@ -418,7 +383,7 @@ der Roten Armee. |
 | 28. Januar | **Wolf Wladislaw Siwek** kommt im KZ Dachau an. Anschließend wird er zum Arbeitseinsatz in das Außenlager Mühldorf gebracht. |
 | 2. Februar | Verlegung von **Idel Siwek** vom KZ Buchenwald ins KZ Dora-Mittelbau bei Nordhausen. |
 | 3. März | **Wolf Wladislaw Siwek** erkrankt im Außenlager Mühldorf und wird ins Stammlager des KZ Dachau zurückgebracht.  |
-| 26. März | Ein Stoßtrupp der SS setzt von Dörnigheim über den Main und erschießt im Rathaus [**Engelhard Beetz**](./steine/engelhard-beetz.md), [**Wilhelm Glock**](./steine/wilhelm-glock.md), [**Wendelin Kadner**](./steine/wendelin-kadner.md) und [**Richard Müller**](./steine/richard-mueller.md), die sich zusammen mit anderen um die kampflose Übergabe Mühlheims an die Amerikaner kümmerten. |
+| 26. März | Ein Stoßtrupp der SS setzt von Dörnigheim über den Main und erschießt im Rathaus [**Engelhard Beetz**](./steine/engelhard-beetz), [**Wilhelm Glock**](./steine/wilhelm-glock), [**Wendelin Kadner**](./steine/wendelin-kadner) und [**Richard Müller**](./steine/richard-mueller), die sich zusammen mit anderen um die kampflose Übergabe Mühlheims an die Amerikaner kümmerten. |
 | 26. März | Einmarsch amerikanischer Soldaten in Mühlheim. |
 | 11. April | Befreiung des KZ Buchenwald durch die 3. US-Armee. |
 | 11. April | Befreiung von **Idel Siwek** im KZ Dora-Mittelbau durch Soldaten der 1. US-Armee. |
@@ -447,7 +412,7 @@ mit den Lehmanns passiert war.
 Außer den ins Ausland Geflohenen überlebten den Terror der Nationalsozialisten in Deutschland nach aktuellem Kenntnisstand folgende **acht Mühlheimer Jüdinnen und Juden**:
 
 - **Gredchen Schröder**, geb. Stiefel
-- [**Mathilde Strauß**](./steine/albert-und-mathilde-strauss.md), geb. Rollmann
+- [**Mathilde Strauß**](./steine/albert-und-mathilde-strauss), geb. Rollmann
 - **Idel Siwek**
 - **Wolf Wladislaw Siwek**
 - **Jakob Siwek**
@@ -456,6 +421,7 @@ Außer den ins Ausland Geflohenen überlebten den Terror der Nationalsozialisten
 - **Mirijam Amsterdam**, geb. Siwek
 
 
+---
 
 *Quelle: [judenverfolgung_muehlheim09-05-2020.pdf](./att/judenverfolgung_muehlheim09-05-2020.pdf)
 

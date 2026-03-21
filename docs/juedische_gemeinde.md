@@ -1,0 +1,63 @@
+---
+sidebar_position: 2
+title: Geschichte der jüdischen Gemeinde
+---
+
+# Geschichte der jüdischen Gemeinde in Mühlheim und Dietesheim
+
+Während die Mühlheimer ab 1887 eine eigene Gemeinde bildeten, blieben die Dietesheimer Juden weiterhin der Gemeinde in Groß-Steinheim angeschlossen. Dort gingen sie zur Synagoge und auf dem dortigen Friedhof wurden die Toten beerdigt. Bis 1887 beerdigten auch die Mühlheimer ihre Toten dort.
+
+| Datum | Ereignis |
+|-------|----------|
+| 14. Juli 1789 | Sturm auf die Bastille in Paris und Beginn der Französischen Revolution |
+| Vor 1795 | Zuzug von Hertz und Sinschen Rollmann nach Mühlheim |
+| Im Jahr 1799 | Die jüdische Gemeinde Mühlheim ist an der Errichtung des jüdischen Friedhofs in Groß-Steinheim beteiligt. |
+| 18. Juni 1815 | Schlacht bei Waterloo – Ende der napoleonischen Ära |
+| Im Jahr 1836 | Die „Ortsbürger-Liste" in Dietesheim erwähnt erstmals einen Juden, den Schumacher Joseph Moises, der im Jahre 1813 geboren wurde. |
+| März 1848 | Beginn der Frankfurter Nationalversammlung in der Paulskirche |
+| 11. November 1850 | Aufnahme von Josef Rollmann ins Bürgerregister Mühlheim |
+| Im Jahr 1861 | Das Wachthäuschen in der Marktstraße wird gebaut. |
+| 15. November 1865 | Aufnahme von Salomon Rollmann ins Bürgerregister Mühlheim |
+| 18. Mai 1868 | Aufnahme von Nehm Rollmann ins Bürgerregister Mühlheim |
+| 19. Juli 1870 | Frankreich erklärt dem Königreich Preußen den Krieg |
+| 18. Januar 1871 | Gründung des Deutschen Reiches |
+| 07. Dezember 1873 | Aufnahme von Nehm Stiefel ins Bürgerregister Mühlheim |
+| 24. März 1874 | Karoline Schönemann stirbt im Alter von 25 Jahren in Dietesheim und wird auf dem alten Friedhof in Steinheim beerdigt. |
+| Im Jahr 1876 | Georg Büttner wird Bürgermeister in Mühlheim (34 Amtsjahre). |
+| Im Jahr 1879 | Das erste echte Schulgebäude wird in Mühlheim errichtet. |
+| 28. Dezember 1879 | Aufnahme von Julius Fried ins Bürgerregister Mühlheim |
+| 06. August 1880 | Mit der Betriebsaufnahme des Farbwerks Mühlheim beginnt der Umbruch vom Bauerndorf zur Industriesiedlung. |
+| 28. Dezember 1884 | Aufnahme von [Elias Appel](./steine/familie-appel) in das Bürgerregister der Gemeinde Dietesheim |
+| 20. Februar 1887 | Aufnahme von Benjamin Rollmann ins Bürgerregister Mühlheim |
+| 19. Dezember 1887 | **Gründung der israelitischen Gemeinde in Mühlheim am Main.** Julius Fried wird erster Vorsteher. |
+| 22. Juli 1890 | Aufnahme von Theodor Rollmann ins Bürgerregister Mühlheim |
+| 01. Oktober 1892 | Schließung des alten und Eröffnung des neuen Friedhofs in Groß-Steinheim |
+| 24. Juni 1893 | Der jüdische Friedhof in der heutigen Leuschnerstraße wird angelegt. |
+| Im Jahr 1895 | Das Kreiserziehungsheim wird in Mühlheim gebaut. Das erste der beiden Gebäude der Goetheschule wird errichtet. |
+| Im Jahr 1900 | Der berühmte Komponist Paul Hindemith zieht im Alter von vier Jahren mit seiner Familie von Hanau nach Mühlheim. |
+| Im Jahr 1910 | Peter Hatzebruch wird Bürgermeister in Mühlheim. |
+| 01. August 1914 | Beginn des Ersten Weltkriegs |
+| 08. August 1914 | Einweihung der Synagoge in der Friedrichstraße |
+
+> „Für die Einweihungsfeier wurde ein Synagogenchor gegründet. Er bestand aus 25 Mädchen und Jungen und probte zweimal wöchentlich unter der Leitung des Rabbiners und Volksschullehrers Leopold Oppenheimer aus Groß-Steinheim. Es sollte eine große Feier werden, die lange vorbereitet wurde. Doch eine Woche vorher begann die Katastrophe des Ersten Weltkriegs. ‚Sang- und klanglos trug man die Thorarollen und sonstige Geräte bei Nacht in ihre neue Wohnung. Damit war die Einweihung beendet', schreibt [**Leopold Isaak**](./steine/leopold-isaak), letzter Vorsteher der jüdischen Gemeinde in einer Chronik im Februar 1934."
+
+| Datum | Ereignis |
+|-------|----------|
+| 27. Dezember 1917 | **Sali Stiefel** stirbt im Alter von 34 Jahren als Ersatz-Reservist an der Front. |
+| 08. Oktober 1918 | In Mühlheim verstirbt Gefreiter **Hermann Rollmann** an seiner schweren Verletzung. |
+| 15. Januar 1920 | Tod von **Liebmann Isaak** im Alter von 66 Jahren |
+| 21. September 1921 | Felix Trejtnar wird der erste SPD-Bürgermeister Mühlheims. |
+| 01. April 1922 | Gründung der [Mühlheimer Naturfreunde als „Touristenverein Die Naturfreunde"](https://www.naturfreunde-muehlheim.de/) |
+| 02. Dezember 1925 | Gründung der I.G. Farbenindustrie AG |
+| Im Jahr 1926 | Das Farbwerk Mühlheim wird geschlossen. |
+| 12. Januar 1927 | Auswanderung von **Hermann Siwek** nach Amerika |
+| 02. Dezember 1930 | Die jüdische Gemeinde wählt einen neuen Gemeindevorstand: [**Leopold Isaak**](./steine/leopold-isaak), [**Samuel „Sally" Stern**](./steine/familie-stern) und **Aron Stiefel** werden bestätigt. |
+| 29. Februar 1932 | Auswanderung von **Siegfried Rollmann** nach England |
+| 24. Oktober 1932 | Die jüdische Gemeinde stellt einen Antrag zur Erweiterung ihres Friedhofs. |
+| 06. Januar 1933 | Das Kreisamt in Offenbach erteilt die Genehmigung zur Erweiterung des Friedhofs der israelitischen Gemeinde zu Mühlheim. |
+
+
+---
+
+> Quelle: [judenverfolgung_muehlheim09-05-2020.pdf](./att/judenverfolgung_muehlheim09-05-2020.pdf)
+
