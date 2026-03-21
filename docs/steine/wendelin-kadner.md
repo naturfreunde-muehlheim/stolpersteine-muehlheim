@@ -4,8 +4,12 @@ sidebar_position: 7
 
 # Wendelin Kadner
 
-![Stolpersteine März 2026](./img/stolpersteine_2026.png)
+![Stolperstein Wendelin Kadner](./img/wendelin-kadner-stein.png)
 
 <!-- > Marktstraße 18 -->
 
 Nähere Informationen hier in Kürze 
+
+---
+
+![Stolpersteine März 2026](./img/stolpersteine_2026.png)
