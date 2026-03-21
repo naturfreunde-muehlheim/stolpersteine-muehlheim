@@ -29,7 +29,5 @@ Sie können hier eine [Putzanleitung](./putzanleitung) für die verlegten Stolpe
 
 ## Kontakt
 
-Wer Pate für einen Stolperstein werden möchte oder Wissen bzw. Informationen über verfolgte Personen in Mühlheim weitergeben kann, wird gebeten sich an den Vorstand zu wenden:
-
-**Email:** [vorstand@naturfreunde-muehlheim.de](mailto:vorstand@naturfreunde-muehlheim.de)
+Wer Pate für einen Stolperstein werden möchte, wird gebeten sich an den Vorstand zu wenden:[vorstand@naturfreunde-muehlheim.de](mailto:vorstand@naturfreunde-muehlheim.de)
 
