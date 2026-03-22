@@ -17,33 +17,33 @@ Die folgende Liste enthält namentlich bekannten Opfer:
 
 | Wir trauern um... | Schicksal |
 |---|---|
-| [**Bertha Appel**](./steine/familie-appel) | Gest. 02.10.1942, Treblinka |
-| [**Johanna Appel**](./steine/familie-appel) | Gest. 02.10.1942, Treblinka |
-| [**Moritz Appel**](./steine/familie-appel) | Gest. 19.12.1942, Theresienstadt |
+| [**Bertha Appel**](./steine/familie-appel) | Gest. 2. Oktober 1942, Treblinka |
+| [**Johanna Appel**](./steine/familie-appel) | Gest. 2. Oktober 1942, Treblinka |
+| [**Moritz Appel**](./steine/familie-appel) | Gest. 19. Dezember 1942, Theresienstadt |
 | [**Arno Chmielnicki**](./steine/familie-chmielnicki) | Deportiert 1942, für tot erklärt. |
 | [**Dwojra Chmielnicki, geb. Pinkus**](./steine/familie-chmielnicki) | Deportiert 1942, für tot erklärt. |
 | [**Sonja Chmielnicki**](./steine/familie-chmielnicki) | Deportiert 1942, für tot erklärt. |
 | **Adolf Distelburger** | Deportiert nach Auschwitz, dort mit hoher Wahrscheinlichkeit ermordet. |
-| **Janette Distelburger, geb. Isaak** | Gest. 03.02.1944, Theresienstadt |
-| **Pauline Fleischer, geb. Isaak** | Deportiert nach Kaunas, dort erschossen am 25.11.194). |
+| **Janette Distelburger, geb. Isaak** | Gest. 3. Februar 1944, Theresienstadt |
+| **Pauline Fleischer, geb. Isaak** | Deportiert nach Kaunas, dort erschossen am 25. November 1941. |
 | **Johanna Fried** | Deportiert 1942, für tot erklärt. |
 | **Laura Fried** | Deportiert 1942, für tot erklärt. |
-| **Chaja Ita Friz, geb. Ginsberg** | Gest. 02.10.1942, Treblinka |
-| **Leopold Friz** | Gest. 02.10.1942, Treblinka |
-| **Perenz Friz** | Gest. 02.10.1942, Treblinka |
+| **Chaja Ita Friz, geb. Ginsberg** | Gest. 2. Oktober 1942, Treblinka |
+| **Leopold Friz** | Gest. 2. Oktober 1942, Treblinka |
+| **Perenz Friz** | Gest. 2. Oktober 1942, Treblinka |
 | **Rosa Hirsch, geb. Fried** | Deportiert nach Auschwitz, dort ermordet. |
-| **Paula Hofmann, geb. Schönfeld** | Ermordet 19.11.1943, Auschwitz |
-| [**Berta Lehmann, geb. Isaak**](./steine/moritz-und-berta-lehmann) | Gest. 02.10.1942, Treblinka |
-| [**Moritz Lehmann**](./steine/moritz-und-berta-lehmann) | Gest. 08.05.1942, KZ Sachsenhausen |
-| **Sofie Spahn, geb. Berkowitz** | Ermordet 14.08.1943, Auschwitz |
+| **Paula Hofmann, geb. Schönfeld** | Ermordet 19. November 1943, Auschwitz |
+| [**Berta Lehmann, geb. Isaak**](./steine/moritz-und-berta-lehmann) | Gest. 2. Oktober 1942, Treblinka |
+| [**Moritz Lehmann**](./steine/moritz-und-berta-lehmann) | Gest. 8. Mai 1942, KZ Sachsenhausen |
+| **Sofie Spahn, geb. Berkowitz** | Ermordet 14. August 1943, Auschwitz |
 | [**Sally Stern**](./steine/familie-stern) | Deportiert nach Auschwitz, dort mit hoher Wahrscheinlichkeit ermordet. |
-| [**Helmut Stern**](./steine/familie-stern) | Gest. 05.08.1942, KZ Majdanek |
+| [**Helmut Stern**](./steine/familie-stern) | Gest. 5. August 1942, KZ Majdanek |
 | [**Bertha Stiefel**](./steine/bertha-stiefel) | Deportiert 1942 (Piaski-Lublin), Todesdatum unbekannt. |
 | [**Thekla Stern, geb. Marum**](./steine/familie-stern) | Deportiert nach Auschwitz, dort mit hoher Wahrscheinlichkeit ermordet. |
 | **Anna Teesch, geb. Friz** | Direkt nach Ankunft in Auschwitz ermordet. |
-| **Fredy Teesch** | Gest. 21.06.1943, KZ Auschwitz |
-| **Joseph Wolf** | Gest. 02.10.1942, Treblinka |
-| **Recha Wolf, geb. Reis** | Gest. 02.10.1942, Treblinka |
+| **Fredy Teesch** | Gest. 21. Juni 1943, KZ Auschwitz |
+| **Joseph Wolf** | Gest. 2. Oktober 1942, Treblinka |
+| **Recha Wolf, geb. Reis** | Gest. 2. Oktober 1942, Treblinka |
 
 Bei mehreren Personen liegt kein exakt belegtes Todesdatum oder kein unmittelbar dokumentierter Todesort vor. In den Akten erscheinen daher Formulierungen wie:
 
@@ -75,7 +75,7 @@ Außer den ins Ausland Geflohenen überlebten den Terror der Nationalsozialisten
 ![](./img/gargova_juedfriedhof.png)
 > Ansicht des Jüdischen Friedhofs von Süden, 2024. Foto: Fani Gargova, Lizenz [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.de)
 
-Auch **Arnold Isaak** überlebte. Er kehrte am 08.05.1945 als Angehöriger der US Air Force nach Mühlheim zurück. Seine Aussagen sind als Zeitzeugnis dokumentiert, und unter anderem wird diese zitiert: 
+Auch **Arnold Isaak** überlebte. Er kehrte am 8. Mai 1945 als Angehöriger der US Air Force nach Mühlheim zurück. Seine Aussagen sind als Zeitzeugnis dokumentiert, und unter anderem wird diese zitiert: 
 
 :::note Als US-Soldat...
 

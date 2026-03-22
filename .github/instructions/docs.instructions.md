@@ -24,8 +24,9 @@ Diese Datei ist angelegt mit und für GitHub Copilot, um die Bearbeitung zu erle
 - Verwende im Text ein konsistentes Format für zeitliche Daten. 
   - Bevorzuge "26. März 1945" statt "26.3.1945". 
   - Bevorzuge "26.3.1945" statt "26.03.1945" und "9.11.1938" statt "09.11.1938".
-  - Je nach Kontext, z.B. bei Einleitung oder Zwischenüberschriften, kann auch "26. März" ohne Jahreszahl verwendet werden. 
-  -  Bei Zitaten oder Extrakten aus Quellen, die ein anderes Format verwenden, behalte zunächst das Originalformat bei.
+  - Je nach Kontext, z.B. bei Einleitung oder Zwischenüberschriften, kann auch "26. März" ohne Jahreszahl verwendet werden.
+  - Normalisiere kompakte Datumsformate wie "19.12.1942" zu "19. Dezember 1942" (mit ausgeschriebenem Monatsname).
+  - **Ausnahme – Zitate und Quellenangaben**: Bei direkten Zitaten (>-Format) oder Extrakten aus Quellen, die ein anderes Format verwenden, behalte das Originalformat bei. Dies gilt auch für historische Quellenangaben, wo die ursprüngliche Schreibweise relevant ist.
 - Nutze Markdown-Formatierung konsistent. Vermeide wo immer möglich die Verwendung von HTML-Tags.
 - Speichere Dateien mit der Endung ".md" oder ".mdx" für Markdown-Inhalte.
 

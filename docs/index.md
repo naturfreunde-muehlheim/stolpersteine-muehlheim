@@ -29,7 +29,7 @@ Der Kölner Künstler und Bildhauer Gunter Demnig verlegte seit 1997 in deutsche
 ![Gunter Demnig](./img/Demnig.jpg#right)
 
 
-Am 28.11.2008 wurde die IG Stolpersteine im NaturFreundeHaus Mühlheim am Main gegründet. Gründungsmitglieder waren:
+Am 28. November 2008 wurde die IG Stolpersteine im NaturFreundeHaus Mühlheim am Main gegründet. Gründungsmitglieder waren:
 - Gerd Katzmann (NaturFreunde Mühlheim)
 - Jörg Neumeister-Jung
 - Hans Stier (NaturFreunde Mühlheim)
