@@ -25,7 +25,7 @@ title: Quellen und Nachweise
 
 <!-- 
 
-## Fußnoten extrahiert aus [judenverfolgung_muehlheim09-05-2020.pdf](./att/judenverfolgung_muehlheim09-05-2020.pdf)
+## Fußnoten extrahiert aus [judenverfolgung_muehlheim09-05-2020.pdf](../att/judenverfolgung_muehlheim09-05-2020.pdf)
 
 
 ### Seite 41
@@ -406,4 +406,4 @@ title: Quellen und Nachweise
 
 ---
 
-Sekundär-Quelle: [judenverfolgung_muehlheim09-05-2020.pdf](./att/judenverfolgung_muehlheim09-05-2020.pdf)
+Sekundär-Quelle: [judenverfolgung_muehlheim09-05-2020.pdf](../att/judenverfolgung_muehlheim09-05-2020.pdf)

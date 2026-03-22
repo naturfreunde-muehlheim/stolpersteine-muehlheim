@@ -37,4 +37,4 @@ Barbara Leissing von der Geschichtswerkstatt Offenbach am Main stand dem Quintet
 
 ![Stolperstein Detail](./img/Sondergeld.jpg)
 
-Die NaturFreunde Mühlheim haben bisher 19 Stolpersteine verlegt. Bis auf einen sind alle Steine für Juden aus der Heimatstadt. Leider ist es bisher nicht gelungen, auch an die [Familie Friz](./att/friz.html) zu erinnern, da der Grundstückseigentümer die Genehmigung für die Verlegung versagt hat.
+Die NaturFreunde Mühlheim haben bisher 19 Stolpersteine verlegt. Bis auf einen sind alle Steine für Juden aus der Heimatstadt. Leider ist es bisher nicht gelungen, auch an die Familie Friz zu erinnern, da der Grundstückseigentümer die Genehmigung für die Verlegung versagt hat. Mehr zur Familie: [Verfolgung in Mühlheim](./judenverfolgung).

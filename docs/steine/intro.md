@@ -30,7 +30,7 @@ Seit den Verlegeaktionen am 17.10.2009 und 26.10.2011 durch Gunter Demnig wird a
 - [Familie Stern](./familie-stern)
 - [Dwojra, Arno und Sonja Chmielnicki](./familie-chmielnicki)
 - [Peter Anton Dey](./peter-anton-dey)
-- [Moritz und Bertha Appel](./moritz-und-bertha-appel)
+- [Moritz und Bertha Appel](./familie-appel)
 
 ![Verlegte Stolpersteine](../img/stolpersteine2.jpg#left)
 
