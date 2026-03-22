@@ -13,7 +13,7 @@ Zum Ende des Krieges war die jüdische Gemeinde in Mühlheim und Dietesheim zers
 
 ## Ermordete 
 
-Die folgende Liste enthält namentlich bekannten Opfer:
+Die folgende Liste enthält die namentlich bekannten Opfer:
 
 | Wir trauern um... | Schicksal |
 |---|---|
