@@ -29,16 +29,16 @@ Der Kölner Künstler und Bildhauer Gunter Demnig verlegte seit 1997 in deutsche
 ![Gunter Demnig](./img/Demnig.jpg#right)
 
 
-Am 28.11.2008 wurde die IG Stolpersteine im NaturFreundeHaus Mühlheim am Main gegründet. Gründungsmitglieder waren:
-- Gerd Katzmann
+Am 28. November 2008 wurde die IG Stolpersteine im NaturFreundeHaus Mühlheim am Main gegründet. Gründungsmitglieder waren:
+- Gerd Katzmann (NaturFreunde Mühlheim)
 - Jörg Neumeister-Jung
-- Hans Stier
-- Helmut Wäscher (NaturFreunde Mülheim)
+- Hans Stier (NaturFreunde Mühlheim)
+- Helmut Wäscher (NaturFreunde Mühlheim)
 - Hans C. Schneider (Friedrich-Ebert-Gymnasium, Gründer der Auschwitz-AG)
 
 Barbara Leissing von der Geschichtswerkstatt Offenbach am Main stand dem Quintett bei den ersten Schritten zur Seite.
 
-### Bedeutung für Mülheim
+### Bedeutung für Mühlheim
 
 ![Stolperstein Detail](./img/Isaak2.jpg)
 

@@ -30,7 +30,7 @@ title: Quellen und Nachweise
 
 ### Seite 41
 
-1 Im Stadtarchiv Mühlheim ist unter Signatur 061-05 ein „Namentliches Verzeichnis jüdischer Personen, die 1933 in Mühlheim am Main und Dietesheim ansässig waren“ zu finden. Hiernach lebten 68 Juden in Mühlheim und 15 in Dietesheim Die von der Stadtverwaltung ge- machten Angaben stehen im Widerspruch zu den Angaben vom 16.06.1933. Dort werden 92 Juden in Mühlheim und Dietesheim genannt. Nachforschungen haben ergeben, dass die Angaben vom 16.06.1933 die realistischen sind, da einige Juden, die nachweislich noch nach 1933 in Mühlheim und Dietesheim wohnten, in der Auflistung der Stadt fehlen. Es ist wahrscheinlich, dass das Verzeichnis erst um 1938 ge- schrieben wurde.
+1 Im Stadtarchiv Mühlheim ist unter Signatur 061-05 ein „Namentliches Verzeichnis jüdischer Personen, die 1933 in Mühlheim am Main und Dietesheim ansässig waren" zu finden. Hiernach lebten 68 Juden in Mühlheim und 15 in Dietesheim Die von der Stadtverwaltung ge- machten Angaben stehen im Widerspruch zu den Angaben vom 16. Juni 1933. Dort werden 92 Juden in Mühlheim und Dietesheim genannt. Nachforschungen haben ergeben, dass die Angaben vom 16. Juni 1933 die realistischen sind, da einige Juden, die nachweislich noch nach 1933 in Mühlheim und Dietesheim wohnten, in der Auflistung der Stadt fehlen. Es ist wahrscheinlich, dass das Verzeichnis erst um 1938 ge- schrieben wurde.
 
 2 Er und seine Frau können als die „Stammeltern“ für fast alle jüdischen Familien, die bis zur Zeit des Nationalsozialismus in Mühlheim am Main wohnten, angesehen werden. Bis zu diesem Zeitpunkt sind einzelne Juden in Mühlheim nachweisbar, aber eine zusammenhängende und kontinuierliche Entwicklung hin zu einer jüdischen Gemeinde beginnt mit dem Zuzug der Familie Rollmann.
 
@@ -54,7 +54,7 @@ title: Quellen und Nachweise
 
 12 Artikel in der Zeitschrift "Der Israelit" vom 1. November 1928
 
-13 Meta Stiefel war mit Max Stiefel verheiratet. Max Stiefel konnte mit seiner zweiten Frau Jenny am 15.02.1938 in die USA fliehen.
+13 Meta Stiefel war mit Max Stiefel verheiratet. Max Stiefel konnte mit seiner zweiten Frau Jenny am 15. Februar 1938 in die USA fliehen.
 
 14 Artikel im "Frankfurter Israelitischen Familienblatt" vom 17. Juli 1930
 

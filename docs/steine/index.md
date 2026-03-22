@@ -20,7 +20,7 @@ sidebar_position: 0
 
 ## Verlegte Stolpersteine
 
-Seit den Verlegeaktionen am 17.10.2009 und 26.10.2011 durch Gunter Demnig wird an folgende Personen erinnert:
+Seit den Verlegeaktionen am 17. Oktober 2009 und 26. Oktober 2011 durch Gunter Demnig wird an folgende Personen erinnert:
 
 - [Leopold Isaak](./leopold-isaak)
 - [Moritz und Berta Lehmann](./moritz-und-berta-lehmann)

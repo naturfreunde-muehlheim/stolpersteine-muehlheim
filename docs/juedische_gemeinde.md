@@ -11,20 +11,20 @@ Während die Mühlheimer ab 1887 eine eigene Gemeinde bildeten, blieben die Diet
 |-------|----------|
 | 14. Juli 1789 | Sturm auf die Bastille in Paris und Beginn der Französischen Revolution. |
 | Vor 1795 | Zuzug von Hertz und Sinschen Rollmann nach Mühlheim. |
-| Im Jahr 1799 | Die jüdische Gemeinde Mühlheim ist an der Errichtung des jüdischen Friedhofs in Groß-Steinheim beteiligt. |
+| 1799 | Die jüdische Gemeinde Mühlheim ist an der Errichtung des jüdischen Friedhofs in Groß-Steinheim beteiligt. |
 | 18. Juni 1815 | Schlacht bei Waterloo – Ende der napoleonischen Ära. |
-| Im Jahr 1836 | Die „Ortsbürger-Liste" in Dietesheim erwähnt erstmals einen Juden, den Schumacher Joseph Moises, der im Jahre 1813 geboren wurde. |
+| 1836 | Die „Ortsbürger-Liste" in Dietesheim erwähnt erstmals einen Juden, den Schumacher Joseph Moises, der im Jahre 1813 geboren wurde. |
 | März 1848 | Beginn der Frankfurter Nationalversammlung in der Paulskirche. |
 | 11. November 1850 | Aufnahme von Josef Rollmann ins Bürgerregister Mühlheim. |
-| Im Jahr 1861 | Das Wachthäuschen in der Marktstraße wird gebaut. |
+| 1861 | Das Wachthäuschen in der Marktstraße wird gebaut. |
 | 15. November 1865 | Aufnahme von Salomon Rollmann ins Bürgerregister Mühlheim. |
 | 18. Mai 1868 | Aufnahme von Nehm Rollmann ins Bürgerregister Mühlheim. |
 | 19. Juli 1870 | Frankreich erklärt dem Königreich Preußen den Krieg. |
 | 18. Januar 1871 | Gründung des Deutschen Reiches. |
 | 07. Dezember 1873 | Aufnahme von Nehm Stiefel ins Bürgerregister Mühlheim. |
 | 24. März 1874 | Karoline Schönemann stirbt im Alter von 25 Jahren in Dietesheim und wird auf dem alten Friedhof in Steinheim beerdigt. |
-| Im Jahr 1876 | Georg Büttner wird Bürgermeister in Mühlheim. Später wird er mit 34 Amtsjahren ist er derjenige sein, der dem Ort am längsten vorstand. |
-| Im Jahr 1879 | Das erste echte Schulgebäude wird in Mühlheim errichtet. |
+| 1876 | Georg Büttner wird Bürgermeister in Mühlheim. Später wird er mit 34 Amtsjahren ist er derjenige sein, der dem Ort am längsten vorstand. |
+| 1879 | Das erste echte Schulgebäude wird in Mühlheim errichtet. |
 | 28. Dezember 1879 | Aufnahme von Julius Fried ins Bürgerregister Mühlheim. |
 | 06. August 1880 | Mit der Betriebsaufnahme des Farbwerks Mühlheim beginnt der Umbruch vom Bauerndorf zur Industriesiedlung. |
 | 28. Dezember 1884 | Aufnahme von [Elias Appel](./steine/familie-appel) in das Bürgerregister der Gemeinde Dietesheim. |
@@ -67,7 +67,7 @@ Siehe die [Quelle](./quellen/literatur#MUHLZERB) - Den Artikel [**Lesen bei UPLO
 | 01. April 1922 | Gründung der [Mühlheimer Naturfreunde als „Touristenverein Die Naturfreunde"](https://www.naturfreunde-muehlheim.de/). |
 | 02. April 1922 | Stiftung eines Ofens fuer die Synagoge durch Joseph Windecker. |
 | 02. Dezember 1925 | Gründung der I.G. Farbenindustrie AG. |
-| Im Jahr 1926 | Das Farbwerk Mühlheim wird geschlossen. |
+| 1926 | Das Farbwerk Mühlheim wird geschlossen. |
 | 12. Januar 1927 | Auswanderung von **Hermann Siwek** nach Amerika |
 | 10. November 1928 | 70. Geburtstag Adolf Stern. Er wird gewürdigt als traditionsbewusstes Gemeindemitglied. |
 
@@ -78,7 +78,8 @@ Siehe die [Quelle](./quellen/literatur#MUHLZERB) - Den Artikel [**Lesen bei UPLO
 | Datum | Ereignis |
 |-------|----------|
 | 29. Dezember 1928 | Tod von **Adolf Stern**, Beerdigung in Mühlheim. |
-| 02. Dezember 1930 | Die jüdische Gemeinde wählt einen neuen Gemeindevorstand: [**Leopold Isaak**](./steine/leopold-isaak), [**Samuel „Sally" Stern**](./steine/familie-stern) und **Aron Stiefel** werden bestätigt. || 29. Februar 1932 | Auswanderung von **Siegfried Rollmann** nach England. |
+| 02. Dezember 1930 | Die jüdische Gemeinde wählt einen neuen Gemeindevorstand: [**Leopold Isaak**](./steine/leopold-isaak), [**Samuel „Sally" Stern**](./steine/familie-stern) und **Aron Stiefel** werden bestätigt. |
+| 29. Februar 1932 | Auswanderung von **Siegfried Rollmann** nach England. |
 | 24. Oktober 1932 | Die jüdische Gemeinde stellt einen Antrag zur Erweiterung ihres Friedhofs. |
 | 06. Januar 1933 | Das Kreisamt in Offenbach erteilt die Genehmigung zur Erweiterung des Friedhofs der israelitischen Gemeinde zu Mühlheim. |
 

@@ -12,7 +12,7 @@ sidebar_position: 6
 
 Als der Vater Liebmann Isaak 1920 stirbt, wird der Sohn im Alter von 25 Jahren zum Ersten Vorsteher der jüdischen Gemeinde von Mühlheim am Main gewählt. Zugleich ist der im Ersten Weltkrieg dekorierte Jude Kantor und Schächter. Im Jahr 1922 heiraten er und Melita Strauß aus Büdesheim, gegen den Widerstand eines Teils ihrer Familien. Sie kaufen das Haus Trachstraße 24 und haben fünf Kinder. Melita führt ein Lebensmittelsgeschäft, er geht noch als Reisender in Tabakwaren und Fetten auf Tour.
 
-Er missachtet lange das Schächtverbot vom März 1933, wird angezeigt und nach Untersuchungshaft von viereinhalb Monaten am 15.08.1935 vom Amtsgericht in Offenbach zu zehn Monaten Gefängnis verurteilt. Fünf Wochen nach Antritt der Haft in Butzbach stürzt er aus dem obersten Stockwerk in den Flur. Der schwer Verletzte kommt ins Krankenhaus und erhält danach Haftverschonung. Honny soit qui mal y pense!
+Er missachtet lange das Schächtverbot vom März 1933, wird angezeigt und nach Untersuchungshaft von viereinhalb Monaten am 15. August 1935 vom Amtsgericht in Offenbach zu zehn Monaten Gefängnis verurteilt. Fünf Wochen nach Antritt der Haft in Butzbach stürzt er aus dem obersten Stockwerk in den Flur. Der schwer Verletzte kommt ins Krankenhaus und erhält danach Haftverschonung. Honny soit qui mal y pense!
 
 Am Morgen nach der Reichspogromnacht ruft der älteste Sohn aus Offenbach in einem jüdischen Geschäft  in Mühlheim an und lässt den Vater warnen. Der holt die Tora in einem Kinderwagen aus der Synagoge und vergräbt sie im Keller seines Hauses. Am Abend wird er mit anderen jüdischen Männern im alten Wachthäuschen in der Marktstraße eingesperrt. Sie werden schon dort misshandelt und anschließend ins KZ Buchenwald verschleppt.
 
