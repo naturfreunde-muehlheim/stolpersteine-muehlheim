@@ -75,10 +75,11 @@ Außer den ins Ausland Geflohenen überlebten den Terror der Nationalsozialisten
 ![](./img/gargova_juedfriedhof.png)
 > Ansicht des Jüdischen Friedhofs von Süden, 2024. Foto: Fani Gargova, Lizenz [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.de)
 
-Auch **Arnold Isaak** überlebte. Er kehrte am 08.05.1945 als Angehöriger der United States Strategic Air Forces nach Mühlheim zurück. Seine Aussagen sind als Zeitzeugnis dokumentiert.
+Auch **Arnold Isaak** überlebte. Er kehrte am 08.05.1945 als Angehöriger der US Air Force nach Mühlheim zurück. Seine Aussagen sind als Zeitzeugnis dokumentiert, und unter anderem wird diese zitiert: 
 
-:::info 
-Als Soldat der United States Strategic Air Forces Technical Intelligence Division besuchte er unmittelbar nach Kriegsende auf der Suche nach Informationen zu seinem Vater Leopold Isaak, dem letzten Gemeindevorsitzenden, auch seine Geburtsstadt Mühlheim und
+:::note Als US-Soldat...
+
+...der [United States Strategic Air Forces](https://en.wikipedia.org/wiki/United_States_Strategic_Air_Forces_in_Europe) Technical Intelligence Division besuchte er unmittelbar nach Kriegsende auf der Suche nach Informationen zu seinem Vater Leopold Isaak, dem letzten Gemeindevorsitzenden auch seine Geburtsstadt Mühlheim und
 
 > hatte vorgehabt, anzuhalten und einen kleinen Stein zum Zeichen des Gedenkens auf die Grabsteine meiner Großmutter und meines Großvaters zu legen. Als wir vor dem Tor bremsten, konnte ich sehen, daß die Nazis auch hier ganze Arbeit geleistet hatten. Das Eingangstor lag auf der Erde. Alle Grabsteine waren umgeworfen. Viele waren zerbrochen. Unkraut war über die Gräber gewachsen. Es war schlimm. Die Tränen kamen mir, und ich wurde wütend.
 
