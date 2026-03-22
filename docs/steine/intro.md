@@ -4,10 +4,19 @@ sidebar_position: 0
 
 # Steine, Namen und Orte
 
+![Stolpersteine März 2026](./img/stolpersteine_2026.png#right)
+
+
 ## Neue Stolpersteine im März 2026
 
-![Stolpersteine März 2026](./img/stolpersteine_2026.png)
 
+- [Engelhard Beetz](./engelhard-beetz)
+- [Wilhelm Karl Glock](./wilhelm-glock)
+- [Wendelin Kadner](./wendelin-kadner)
+- [Richard Müller](./richard-mueller)
+- [Wilhelm Wiessmann](./wilhelm-wiessmann)
+
+---
 
 ## Verlegte Stolpersteine
 
@@ -23,6 +32,6 @@ Seit den Verlegeaktionen am 17.10.2009 und 26.10.2011 durch Gunter Demnig wird a
 - [Peter Anton Dey](./peter-anton-dey)
 - [Moritz und Bertha Appel](./moritz-und-bertha-appel)
 
-![Verlegte Stolpersteine](../img/stolpersteine2.jpg)
+![Verlegte Stolpersteine](../img/stolpersteine2.jpg#left)
 
-![Leopold Isaak](../img/Isaak2.jpg)
+![Leopold Isaak](../img/Isaak2.jpg#left)

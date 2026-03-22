@@ -6,8 +6,12 @@ sidebar_position: 2
 
 **Jede Unterstützung zählt!**
 
+## Inhaltliche Beiträge: [GitHub](https://github.com/naturfreunde-muehlheim/stolpersteine-muehlheim)
 
-## Spenden
+Hinweise hierzu sind zu finden unter [Dokumentation](./dokumentation)
+
+
+## Beiträge als Spenden
 
 Jede/r Bürgerin oder Bürger kann einen solchen Stein setzen lassen. Die Kosten betragen **120,00 €**. Wenden Sie sich an die Mühlheimer NaturFreunde, und überweisen Sie bitte mit Vermerk „Stolpersteine“ auf dieses Girokonto :
 
