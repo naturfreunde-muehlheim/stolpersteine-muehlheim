@@ -6,7 +6,7 @@ sidebar_position: 5
 
 ![Stolperstein Wilhelm Glock](./img/wilhelm-glock-stein.png)
 
-<!-- > Marktstraße 18 -->
+{/* > Marktstraße 18 */}
 
 Nähere Informationen hier in Kürze 
 

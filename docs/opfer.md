@@ -60,14 +60,14 @@ Außer den ins Ausland Geflohenen überlebten den Terror der Nationalsozialisten
 
 | Name | Schicksal |
 |---|---|
-| **Mirijam Amsterdam**, geb. Siwek | <!-- In der Schlussbemerkung der Dokumentation als Überlebende geführt. -->|
+| **Mirijam Amsterdam**, geb. Siwek | {/* In der Schlussbemerkung der Dokumentation als Überlebende geführt. */}|
 | **Gredchen Schröder**, geb. Stiefel | Überlebte den Krieg nach einer Odyssee durch mehrere Verstecke in Mühlheim und Umgebung. |
-| **Anna Siwek**, geb. Ritter | <!-- In der Schlussbemerkung der Dokumentation als Überlebende geführt. -->|
-| **Gurdina Siwek**, geb. Siwek | <!-- In der Schlussbemerkung der Dokumentation als Überlebende geführt. -->|
+| **Anna Siwek**, geb. Ritter | {/* In der Schlussbemerkung der Dokumentation als Überlebende geführt. */}|
+| **Gurdina Siwek**, geb. Siwek | {/* In der Schlussbemerkung der Dokumentation als Überlebende geführt. */}|
 | **Idel Siwek** | Idel überlebte mehrere KZs und Todesmärsche. Er kehrte am 24. Juni 1945 nach Mühlheim zurück. |
-| **Jakob Siwek** | <!-- In der Schlussbemerkung der Dokumentation als Überlebender geführt. --> |
+| **Jakob Siwek** | {/* In der Schlussbemerkung der Dokumentation als Überlebender geführt. */} |
 | **Wolf Wladislaw Siwek** | Wolf überlebte mehrere KZs und Todesmärsche; Er kehrte am 18. Juli 1945 nach Mühlheim zurück. |
-| [**Mathilde Strauß**](./steine/albert-und-mathilde-strauss), geb. Rollmann | <!-- In der Schlussbemerkung der Dokumentation als Überlebende geführt. -->|
+| [**Mathilde Strauß**](./steine/albert-und-mathilde-strauss), geb. Rollmann | {/* In der Schlussbemerkung der Dokumentation als Überlebende geführt. */}|
 
 
 ## Zum Gedenken

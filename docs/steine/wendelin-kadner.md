@@ -6,7 +6,7 @@ sidebar_position: 7
 
 ![Stolperstein Wendelin Kadner](./img/wendelin-kadner-stein.png)
 
-<!-- > Marktstraße 18 -->
+{/* > Marktstraße 18 */}
 
 Nähere Informationen hier in Kürze 
 

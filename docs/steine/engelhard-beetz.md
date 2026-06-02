@@ -6,7 +6,7 @@ sidebar_position: 2
 
 ![Stolperstein Engelhard Beetz](./img/engelhard-beetz-stein.png)
 
-<!-- > Marktstraße 18 -->
+{/* > Marktstraße 18 */}
 
 Nähere Informationen hier in Kürze 
 
