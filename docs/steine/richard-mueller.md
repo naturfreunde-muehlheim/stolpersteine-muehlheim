@@ -6,7 +6,7 @@ sidebar_position: 9
 
 ![Stolperstein Richard Müller](./img/richard-mueller-stein.png)
 
-<!-- > Marktstraße 18 -->
+{/* > Marktstraße 18 */}
 
 Nähere Informationen hier in Kürze 
 

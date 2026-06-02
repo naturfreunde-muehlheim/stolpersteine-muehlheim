@@ -23,7 +23,7 @@ title: Quellen und Nachweise
 |  |  | Werner, Klaus: Die Verfolgung der Juden. In: Magistrat der Stadt Mühlheim am Main (Hrsg.): Mühlheim am Main 1933-1945. |  |
 </div>
 
-<!-- 
+{/* 
 
 ## Fußnoten extrahiert aus [judenverfolgung_muehlheim09-05-2020.pdf](../att/judenverfolgung_muehlheim09-05-2020.pdf)
 
@@ -401,7 +401,7 @@ title: Quellen und Nachweise
 180 Gredchen Schröder (siehe Endnote 146); Mathilde Strauß, geb. Rollmann, war seit 1920 mit Alfred Strauß verheiratet. Sie starb am 01.07.1953 in Frankfurt am Main.
 
 181 Zu den einzelnen Mitglieder der Familie Siwek und deren Schicksal siehe die vorherigen Fußnoten
--->
+*/}
 
 
 ---
