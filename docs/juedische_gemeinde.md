@@ -31,7 +31,7 @@ Während die Mühlheimer ab 1887 eine eigene Gemeinde bildeten, blieben die Diet
 | 20. Februar 1887 | Aufnahme von Benjamin Rollmann ins Bürgerregister Mühlheim. |
 | 19. Dezember 1887 | **Gründung der israelitischen Gemeinde in Mühlheim am Main.** Julius Fried wird erster Vorsteher. |
 
-:::note ["**Zerbrechliche Nachbarschaft: Mühlheim**"](./quellen/literatur#MUHLZERB):
+:::note[["**Zerbrechliche Nachbarschaft: Mühlheim**"](./quellen/literatur#MUHLZERB):]
 > Je größer die Gemeinde wurde, umso mehr eigene Einrichtungen des jüdischen Gemeindelebens konnten in Mühlheim selbst verwirklicht werden, sodass die Zeitschrift Der Israelit in ihrer Ausgabe vom 28. Dezember 1887 vermelden konnte: 
 
 >> Mühlheim, 19. Dez. Die hiesigen Einwohner, die von jeher eine Filialgemeinde zu Bürgel bildeten, haben, da dieselben eben zahlreich genug sind, sich von Bürgel getrennt und eine eigene Gemeinde gebildet. Von der Regierung haben sie die Genehmigung hierzu erhalten, und wurden in Folge dessen die Herren: M. Rollmann, Fried und R. Stiefel als Vorsteher gewählt und als solche vom Großh. Kreisamt Offenbach verpflichtet.
@@ -54,7 +54,7 @@ Siehe die [Quelle](./quellen/literatur#MUHLZERB) - Den Artikel [**Lesen bei UPLO
 | 01. August 1914 | Beginn des Ersten Weltkriegs. |
 | 08. August 1914 | Einweihung der Synagoge in der Friedrichstraße. |
 
-:::note Es schreibt [**Leopold Isaak**](./steine/leopold-isaak), letzter Vorsteher der jüdischen Gemeinde in einer Chronik im Februar 1934:
+:::note[Es schreibt [**Leopold Isaak**](./steine/leopold-isaak), letzter Vorsteher der jüdischen Gemeinde in einer Chronik im Februar 1934:]
 > Für die Einweihungsfeier wurde ein Synagogenchor gegründet. Er bestand aus 25 Mädchen und Jungen und probte zweimal wöchentlich unter der Leitung des Rabbiners und Volksschullehrers Leopold Oppenheimer aus Groß-Steinheim. Es sollte eine große Feier werden, die lange vorbereitet wurde. Doch eine Woche vorher begann die Katastrophe des Ersten Weltkriegs. ‚Sang- und klanglos trug man die Thorarollen und sonstige Geräte bei Nacht in ihre neue Wohnung. Damit war die Einweihung beendet.
 :::
 
@@ -71,7 +71,7 @@ Siehe die [Quelle](./quellen/literatur#MUHLZERB) - Den Artikel [**Lesen bei UPLO
 | 12. Januar 1927 | Auswanderung von **Hermann Siwek** nach Amerika |
 | 10. November 1928 | 70. Geburtstag Adolf Stern. Er wird gewürdigt als traditionsbewusstes Gemeindemitglied. |
 
-:::note Artikel in der Zeitschrift "Der Israelit" vom 1. November 1928
+:::note[Artikel in der Zeitschrift "Der Israelit" vom 1. November 1928]
 > Am 10. November, dem Schabbat Chaje Sara (Schabbat mit der Toralesung Chaje Sara, d.i. 1. Mose 23,1 – 15,18) feiert der frühere Metzgermeister Herr Adolf Stern in körperlicher und geistiger Frische seinen 70. Geburtstag. Er ist noch ein Jehudi vom alten Schlage, wie solche heute in Landgemeinden leider immer weniger werden. Einen Beweis seiner Treue zu unserer Heiligen Tora erbrachte er, als während des Krieges am dortigen Platze durch Ortsvorschrift die Fleischverteilung auf Schabbat angesetzt wurde und er, als der einzige unter den jüdischen Metzgern, es vorzog, seine seit 30 Jahren bestehende Existenz aufzugeben, um den Schabbat nicht zu entweihen. Möge ihm ein heiterer Lebensabend beschieden sein. (Alles Gute) bis 100 Jahre.
 :::
 

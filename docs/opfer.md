@@ -77,7 +77,7 @@ Außer den ins Ausland Geflohenen überlebten den Terror der Nationalsozialisten
 
 Auch **Arnold Isaak** überlebte. Er kehrte am 8. Mai 1945 als Angehöriger der US Air Force nach Mühlheim zurück. Seine Aussagen sind als Zeitzeugnis dokumentiert, und unter anderem wird diese zitiert: 
 
-:::note Als US-Soldat...
+:::note[Als US-Soldat...]
 
 ...der [United States Strategic Air Forces](https://en.wikipedia.org/wiki/United_States_Strategic_Air_Forces_in_Europe) Technical Intelligence Division besuchte er unmittelbar nach Kriegsende auf der Suche nach Informationen zu seinem Vater Leopold Isaak, dem letzten Gemeindevorsitzenden auch seine Geburtsstadt Mühlheim und
 

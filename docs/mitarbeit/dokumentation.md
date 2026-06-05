@@ -20,7 +20,7 @@ Wer andersweitig Geschichte(n) und Informationen zu verfolgten Personen in Mühl
 
 Diese Dokumentation wurde in ehrenamtlicher Arbeit durch und in Zusammenarbeit mit den [NaturFreunden Mühlheim am Main](https://www.naturfreunde-muehlheim.de/) erstellt. Die Inhalte stehen als Allmende zur Verfügung.
 
-:::info Freie Lizenz
+:::info[Freie Lizenz]
 Sie dürfen das Werk kopieren, verändern, verbreiten und aufführen, sogar zu kommerziellen Zwecken, ohne um weitere Erlaubnis bitten zu müssen.
 
 https://creativecommons.org/publicdomain/zero/1.0/deed.de
