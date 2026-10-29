@@ -1,12 +1,26 @@
 ---
+stein:
+  headline: Moritz und Berta Lehmann
+  image: ./img/lehmann.jpg
+  map_marker:
+    position: [50.1263261, 8.8293465]
+    popup: Moritz und Berta Lehmann - Apfelbaumgasse 5 in Mühlheim am Main
 sidebar_position: 8
 ---
+import SteinMap from '@site/src/components/custom/MarkersMap';
 
 # Moritz und Berta Lehmann
 
 ![Moritz und Berta Lehmann](./img/lehmann.jpg)
 
-> Apfelbaumgasse 5 Mühlheim 
+<SteinMap
+  center={frontMatter.stein.map_marker.position}
+  markers={[frontMatter.stein.map_marker]}
+  height="400px"
+  width="700px"
+  zoom={18}
+/>
+> {frontMatter.stein.map_marker.popup}
 
 Moritz Lehmann, wurde am 26. Mai 1884 in Darmstadt als Sohn von Isaak Lehmann und dessen Frau Berta, geb. Neu, geboren. Er war mit Berta Lehmann verheiratet und wohnte in der Apfelbaumgasse 5.
 

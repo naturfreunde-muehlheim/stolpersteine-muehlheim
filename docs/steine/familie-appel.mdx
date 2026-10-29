@@ -1,13 +1,26 @@
 ---
+stein:
+  headline: Bertha Appel und Moritz Appel
+  image: ./img/stolpersteinfamilieappel.jpg
+  map_marker:
+    position: [50.1246253, 8.8588504]
+    popup: Bertha Appel (1891 –1942) - Obermainstr. 13 in Mühlheim am Main (Dietesheim)
 sidebar_position: 1
 ---
+import SteinMap from '@site/src/components/custom/MarkersMap';
 
 # Bertha Appel und Moritz Appel
 
 ![Familie Appel](./img/stolpersteinfamilieappel.jpg)
 
-> Bertha Appel (1891 –1942) 
-> Obermainstr. 13 
+<SteinMap
+  center={frontMatter.stein.map_marker.position}
+  markers={[frontMatter.stein.map_marker]}
+  height="400px"
+  width="700px"
+  zoom={18}
+/>
+> {frontMatter.stein.map_marker.popup}
 
 Bertha Appel wurde am 26. Juni 1891 in Dietesheim geboren. Sie war ledig, von Beruf Stepperin und wohnte hier in der Obermainstr. 13.
 

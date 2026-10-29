@@ -1,14 +1,26 @@
 ---
+stein:
+  headline: Peter Anton Dey
+  image: ./img/stolpersteindey.jpg
+  map_marker:
+    position: [50.1210317, 8.8391707]
+    popup: Peter Anton Dey (1892 –1973) - Schillerstraße 30 in Mühlheim am Main
 sidebar_position: 4
 ---
+import SteinMap from '@site/src/components/custom/MarkersMap';
 
 # Peter Anton Dey
 
 ![Peter Anton Dey](./img/stolpersteindey.jpg)
 
-> Peter Anton Dey (1892 –1973) 
-
-> Schillerstraße 30
+<SteinMap
+  center={frontMatter.stein.map_marker.position}
+  markers={[frontMatter.stein.map_marker]}
+  height="400px"
+  width="700px"
+  zoom={18}
+/>
+> {frontMatter.stein.map_marker.popup}
 
 > ehemaliger Bürgermeister der Stadt Mühlheim am Main 
 

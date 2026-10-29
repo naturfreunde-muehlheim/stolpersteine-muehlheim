@@ -1,0 +1,25 @@
+---
+stein:
+  headline: Familie Stern
+  image: ./img/stolpersteinfamiliestern.jpg
+  map_marker:
+    position: [50.1252375, 8.8302578]
+    popup: Familie Stern - Marktstraße 18 in Mühlheim am Main
+sidebar_position: 10
+---
+import SteinMap from '@site/src/components/custom/MarkersMap';
+
+# Familie Stern
+
+![Familie Stern](./img/stolpersteinfamiliestern.jpg)
+
+<SteinMap
+  center={frontMatter.stein.map_marker.position}
+  markers={[frontMatter.stein.map_marker]}
+  height="400px"
+  width="700px"
+  zoom={18}
+/>
+> {frontMatter.stein.map_marker.popup}
+
+Nähere Informationen hier in Kürze 
