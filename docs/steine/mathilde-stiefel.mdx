@@ -1,14 +1,26 @@
 ---
+stein:
+  headline: Mathilde Stiefel
+  image: ./img/stein_mathilde_stiefel.jpg
+  map_marker:
+    position: [50.1243236, 8.8315423]
+    popup: Mathilde Stiefel (1889 –1945) - Offenbacher Straße 10 in Mühlheim am Main
 sidebar_position: 12
 ---
+import SteinMap from '@site/src/components/custom/MarkersMap';
 
 # Mathilde Stiefel
 
 ![Mathilde Stiefel](./img/stein_mathilde_stiefel.jpg)
 
-> (1889 –1945)
-
-> Offenbacher Straße 10
+<SteinMap
+  center={frontMatter.stein.map_marker.position}
+  markers={[frontMatter.stein.map_marker]}
+  height="400px"
+  width="700px"
+  zoom={18}
+/>
+> {frontMatter.stein.map_marker.popup}
 
 Mathilde Stiefel wurde am 23. April 1889 in Mühlheim am Main geboren. Sie war unverheiratet, Schneiderin von Beruf und wohnte in der Offenbacher Straße 10.
 

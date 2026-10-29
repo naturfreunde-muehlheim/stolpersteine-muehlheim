@@ -1,12 +1,26 @@
 ---
+stein:
+  headline: Wilhelm Wießmann
+  image: ./img/wilhelm-wiessmann-stein.png
+  map_marker:
+    position: [50.1120912, 8.8412947]
+    popup: Wilhelm Wießmann (geb. 1905) - Lämmerspieler Straße 81 in Mühlheim am Main
 sidebar_position: 14
 ---
+import SteinMap from '@site/src/components/custom/MarkersMap';
 
 # Wilhelm Wießmann
 
 ![Stolperstein Wilhelm Wiessmann](./img/wilhelm-wiessmann-stein.png)
 
-> Lämmerspieler Straße 81
+<SteinMap
+  center={frontMatter.stein.map_marker.position}
+  markers={[frontMatter.stein.map_marker]}
+  height="400px"
+  width="700px"
+  zoom={18}
+/>
+> {frontMatter.stein.map_marker.popup}
 
 **Geboren am  5. Februar 1905 - am 26. März 1945 schwer verwundet**
 

@@ -1,14 +1,26 @@
 ---
+stein:
+  headline: Leopold Isaak
+  image: ./img/stolperstein_leopold_isaak.jpg
+  map_marker:
+    position: [50.1232607, 8.8304982]
+    popup: Leopold Isaak (1894 – 1942) - Trachstraße 24 in Mühlheim am Main
 sidebar_position: 6
 ---
+import SteinMap from '@site/src/components/custom/MarkersMap';
 
 # Leopold Isaak
 
 ![Leopold Isaak](./img/stolperstein_leopold_isaak.jpg)
 
-> Leopold Isaak (1894 – 1942)
-
-> Trachstraße 24 
+<SteinMap
+  center={frontMatter.stein.map_marker.position}
+  markers={[frontMatter.stein.map_marker]}
+  height="400px"
+  width="700px"
+  zoom={18}
+/>
+> {frontMatter.stein.map_marker.popup}
 
 Als der Vater Liebmann Isaak 1920 stirbt, wird der Sohn im Alter von 25 Jahren zum Ersten Vorsteher der jüdischen Gemeinde von Mühlheim am Main gewählt. Zugleich ist der im Ersten Weltkrieg dekorierte Jude Kantor und Schächter. Im Jahr 1922 heiraten er und Melita Strauß aus Büdesheim, gegen den Widerstand eines Teils ihrer Familien. Sie kaufen das Haus Trachstraße 24 und haben fünf Kinder. Melita führt ein Lebensmittelsgeschäft, er geht noch als Reisender in Tabakwaren und Fetten auf Tour.
 

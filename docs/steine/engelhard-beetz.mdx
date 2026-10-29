@@ -1,11 +1,27 @@
 ---
+stein:
+  headline: Engelhard Beetz
+  image: ./img/engelhard-beetz-stein.png
+  map_markers:
+    - position: [50.1263261, 8.8293465]
+      popup: Engelhard Beetz (1907 –1945) - Apfelbaumgasse 5 in Mühlheim am Main
+    - position: [50.1264570, 8.8296171]
+      popup: Engelhard Beetz (1907 –1945) - Pfarrgasse 8 in Mühlheim am Main
 sidebar_position: 2
 ---
+import SteinMap from '@site/src/components/custom/MarkersMap';
 
 # Engelhard Beetz
 
 ![Stolperstein Engelhard Beetz](./img/engelhard-beetz-stein.png)
 
+<SteinMap
+  center={frontMatter.stein.map_markers[0].position}
+  markers={frontMatter.stein.map_markers}
+  height="400px"
+  width="700px"
+  zoom={18}
+/>
 > Apfelbaumgasse 5 / Pfarrgasse 8
 
 **Geboren am 17. Juni 1907 - am 26. März 1945 ermordet**

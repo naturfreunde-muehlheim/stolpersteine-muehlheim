@@ -1,13 +1,26 @@
 ---
+stein:
+  headline: Bertha Stiefel
+  image: ./img/stein_berta_stiefel.jpg
+  map_marker:
+    position: [50.1269192, 8.8289256]
+    popup: Bertha Stiefel (1878 – ?) - Pfarrgasse 23 in Mühlheim am Main
 sidebar_position: 11
 ---
+import SteinMap from '@site/src/components/custom/MarkersMap';
 
 # Bertha Stiefel
 
 ![Bertha Stiefel](./img/stein_berta_stiefel.jpg)
 
-> Berta Stiefel (1878 – ?)
-> Pfarrgasse 25 Mühlheim 
+<SteinMap
+  center={frontMatter.stein.map_marker.position}
+  markers={[frontMatter.stein.map_marker]}
+  height="400px"
+  width="700px"
+  zoom={18}
+/>
+> {frontMatter.stein.map_marker.popup}
 
 Bertha Stiefel wurde am 1. April 1878 in Mühlheim am Main geboren. Sie war Hausfrau von Beruf und wohnte in der Pfarrgasse 23.
 

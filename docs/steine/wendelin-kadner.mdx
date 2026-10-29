@@ -1,12 +1,26 @@
 ---
+stein:
+  headline: Wendelin Kadner
+  image: ./img/wendelin-kadner-stein.png
+  map_marker:
+    position: [50.1221492, 8.8400256]
+    popup: Wendelin Kadner (1901 –1945) - Heinestraße 24 in Mühlheim am Main
 sidebar_position: 7
 ---
+import SteinMap from '@site/src/components/custom/MarkersMap';
 
 # Wendelin Kadner
 
 ![Stolperstein Wendelin Kadner](./img/wendelin-kadner-stein.png)
 
-> Heinestraße 24
+<SteinMap
+  center={frontMatter.stein.map_marker.position}
+  markers={[frontMatter.stein.map_marker]}
+  height="400px"
+  width="700px"
+  zoom={18}
+/>
+> {frontMatter.stein.map_marker.popup}
 
 **Geboren am 3. April 1901 - am 26. März 1945 ermordet**
 
