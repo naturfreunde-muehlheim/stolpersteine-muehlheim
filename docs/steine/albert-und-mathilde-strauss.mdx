@@ -1,14 +1,26 @@
 ---
+stein:
+  headline: Albert und Mathilde Strauß
+  image: ./img/strauss.jpg
+  map_marker:
+    position: [50.1268315, 8.8293781]
+    popup: Albert und Mathilde Strauß (1883 / 1886 –1945) - Pfarrgasse 17 in Mühlheim am Main
 sidebar_position: 13
 ---
+import SteinMap from '@site/src/components/custom/MarkersMap';
 
 # Albert und Mathilde Strauß
 
 ![Albert und Mathilde Strauß](./img/strauss.jpg)
 
-> Albert und Mathilde Strauß (1883 / 1886 –1945) 
-
-> Pfarrgasse 17 Mühlheim 
+<SteinMap
+  center={frontMatter.stein.map_marker.position}
+  markers={[frontMatter.stein.map_marker]}
+  height="400px"
+  width="700px"
+  zoom={18}
+/>
+> {frontMatter.stein.map_marker.popup}
 
 Albert Strauß wurde am 20. Juni 1883 in Sprendlingen geboren. Er war Buchdrucker von Beruf. Albert nahm am 1. Weltkrieg in den Jahren von 1915 bis 1918 teil und ist als Pionier abgegangen.
 
